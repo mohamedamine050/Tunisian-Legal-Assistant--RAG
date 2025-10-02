@@ -1,0 +1,5 @@
+Easements are either continuous or discontinuous.
+
+Continuous easements are those whose use, or potential use, is continuous without the need for any current human action, such as watercourses, gutters, and outlets, and the like.
+
+Discontinuous easements are those whose use requires a current human action, such as a right of way, the right to draw water, and the like.

@@ -1,0 +1,9 @@
+1. Detailed declarations accepted by customs authorities shall be recorded in the manifest.
+
+2. Declarations that do not meet the formal requirements or are not accompanied by the required documents shall be considered unacceptable.
+
+3. In the event of a discrepancy within the same declaration between data recorded in letters or numbers according to customs terminology and data not conforming to this terminology, the latter data shall be considered null and void.
+
+If the type of goods is declared merely by reference to the classification number in accordance with the provisions of Article 19 of this Code, then the data in letters contradicting it shall be considered null and void.
+
+In all other cases, all numerical data contradicting the alphabetical data shall be considered null and void.

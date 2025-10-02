@@ -1,0 +1,6 @@
+No person may seek to benefit from an insurance contract unless it is established that they have a direct or indirect interest in the non-occurrence of the risk. 
+
+**Explanation of Terms:**
+
+* **Insurance contract:** This refers to a legally binding agreement between an insurance company and an insured party, where the insurer agrees to provide financial compensation for covered losses in exchange for premiums.
+* **Direct or indirect interest in the non-occurrence of the risk:** This refers to the financial or other benefit that the person seeking to benefit from the contract would gain if the insured event does not occur. For example, a person who has a financial interest in a building would have a direct interest in the non-occurrence of a fire, as their financial interest would be affected if the building were destroyed. 

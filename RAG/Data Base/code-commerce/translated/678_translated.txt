@@ -1,0 +1,12 @@
+## English Translation:
+
+**Transfer** is a banking operation whereby a specific amount is deducted from an account upon a written order, leading to its restriction in another account along with any accrued debts.
+
+This operation achieves the following:
+
+1) Transferring monetary funds between two distinct individuals, each holding a separate account with the same bank or different banks.
+2) Transferring monetary funds between different accounts opened by the same individual for their own use, either with the same bank or different banks.
+
+The terms and conditions of issuing transfer orders are regulated by an agreement between the parties involved, but the transfer is not negotiable.
+
+If the beneficiary of the transfer is authorized to restrict the amount transferred to another person's account, along with any accrued debts, the name of this person must be explicitly mentioned in the transfer order. 

@@ -1,0 +1,16 @@
+The law considers a bill of exchange a commercial act, regardless of the parties involved, and it must contain the following:
+
+1) The word "bill of exchange" in the text of the instrument, in the language used in its drafting.
+2) An unconditional and unconditional order to pay a specific sum of money.
+3) The name of the person who is required to pay (the drawee).
+4) A statement of the maturity date.
+5) A statement of the place where payment is to be made.
+6) The name of the person who is entitled to receive payment or who the payment is to be made on their behalf.
+7) A statement of the date and place where the instrument was drawn.
+8) The signature of the drawer of the instrument.
+
+If the instrument lacks one of the statements mentioned in the preceding paragraphs, it shall not be considered a bill of exchange, except in the specific circumstances mentioned in the following paragraph:
+
+A bill of exchange that does not contain a statement of the maturity date is considered payable upon presentation. If no specific place of payment is indicated, then the place specified beside the name of the drawee shall be deemed the place of payment, and at the same time, the domicile of the drawee.
+
+A bill of exchange that does not specify the place of its creation is considered to be binding in the place specified beside the name of the drawer. 

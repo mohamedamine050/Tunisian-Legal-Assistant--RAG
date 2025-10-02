@@ -1,0 +1,7 @@
+The Chief Executive Officer, General Manager, Assistant General Manager, Chairman or Member of the collective management body of a non-resident financial services provider cannot concurrently hold any of the following positions:
+
+* A position with a credit institution.
+* A position with an investment institution.
+* A position with a stockbroker.
+* A position with a portfolio management company.
+* A position with an insurance company. 

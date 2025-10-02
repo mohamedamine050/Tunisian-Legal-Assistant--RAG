@@ -1,0 +1,1 @@
+A Qirad agent may trade with his own money for his own benefit, without mixing the funds, unless custom allows for mixing or the contract so requires.

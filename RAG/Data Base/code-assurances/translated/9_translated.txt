@@ -1,0 +1,19 @@
+The insurer may increase the insurance premium.
+
+**Contract**
+
+A contract is a legally binding agreement that obliges the contracting parties and defines their obligations and rights with regard to the specific transaction. 
+
+In this contract, the insurer undertakes to pay the insured or the beneficiary a sum of money, a periodic income, or any other financial compensation in the event of the occurrence of the insured event, in return for premiums or any other financial payment made by the insured to the insurer.
+
+**Increase in Risk**
+
+In the event of an increase in risk during the term of the contract to the extent that, if the new circumstances had existed at the time of subscription or renewal, the insurer would not have acted except in return for a higher insurance premium or subscription fee, the insurer may increase the premium. However, the contract must explicitly state the cases of increased risk. If the insured does not accept the proposed increase, the insurer has the right to terminate the contract after thirty days from the date of informing the insured of the request for an increase, by registered letter with acknowledgment of receipt. This period must be specified in the notice. The insurer may, taking into account the provisions relating to compulsory insurance, terminate the contract in cases of increased risk during the term of the contract to the extent that if the new circumstances had existed at the time of subscription or renewal, the insurer would not have entered into the contract. However, the contract must explicitly state these cases. The right to terminate is exercised after informing the insured in the manner and within the period specified in the second paragraph of this chapter. However, the insurer cannot rely on the increase in risk after accepting to maintain the insurance contract under the same conditions after being aware of this increase by any means, especially if it continues to accept the insurance premiums or has paid compensation for an incident.
+
+**Reduction in Risk**
+
+The insured has the right, in the event of a reduction in risk during the term of the contract, to request a reduction in the insurance premium or subscription fee. If the insurer does not accept the requested reduction, the insured has the right to terminate the contract after thirty days from the date of informing the insurer of the request for reduction, by registered letter with acknowledgment of receipt or by a declaration deposited at the offices of the insurer in exchange for a receipt. In the event of termination, the insurer must reimburse the insured for the portion of the premium or subscription fee relating to the period during which the insured risk has not occurred.
+
+**Exclusions**
+
+The provisions of this chapter do not apply to life insurance contracts.

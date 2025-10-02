@@ -1,0 +1,3 @@
+The holder of a bill of exchange is not obliged to accept payment before the maturity date.
+
+If the drawee pays before maturity, they bear the consequences and damages that may arise from this. Whoever pays at maturity is absolved from any liability, except if they have committed fraud or a gross error. They must ensure the authenticity of the chain of endorsements, not the validity of the endorsers' signatures. 

@@ -1,0 +1,1 @@
+The broker is obligated to guarantee the authenticity of the final signature placed on the documents that pass through his hands in the transactions he mediates, if the signature is issued by one of the contracting parties through him. 

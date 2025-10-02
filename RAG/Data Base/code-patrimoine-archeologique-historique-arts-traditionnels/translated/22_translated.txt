@@ -1,0 +1,9 @@
+The model for preservation and revitalization consists of a land plot model and regulatory provisions. It specifically encompasses the following data:
+
+- Built or unbuilt real estate subject to preservation,
+- Deteriorating real estate subject to restoration,
+- Buildings subject to complete or partial demolition for public or private works,
+- Engineering standards to be respected,
+- Essential infrastructure and equipment,
+- Rules for the arrangement of public spaces,
+- Prohibited activities that do not comply with the requirements for maintaining "protected" areas (1) in light of the specific characteristics of these areas. 

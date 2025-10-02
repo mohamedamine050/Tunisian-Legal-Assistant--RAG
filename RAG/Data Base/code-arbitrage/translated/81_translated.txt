@@ -1,0 +1,15 @@
+Recognition or enforcement of any arbitral award shall not be refused, regardless of the country in which it was rendered, except in the following two cases:
+
+Firstly, upon application by the party against whom enforcement is sought, if such party presents to the Court of Appeal in Tunisia, to which the request for recognition or enforcement was submitted, evidence proving one of the following:
+
+a) That a party to the arbitration agreement referred to in Article 52 of this Code lacks the required capacity, or that this agreement is invalid under the law to which the parties have subjected it, or, in the absence of such a reference, invalid under the rules of international private law.
+
+b) That the party against whom enforcement is sought was not duly notified of the appointment of the arbitrator, or of the arbitration proceedings, or that, for another reason, it was unable to defend its rights.
+
+c) That the arbitral award addresses a dispute not contemplated or covered by the arbitration agreement, or that it includes a ruling on matters beyond the scope of the arbitration agreement or the arbitration clause, but if it is possible to separate the part of the award relating to the matters submitted to arbitration from the part relating to the matters not submitted to arbitration, only the part ruling on the matters submitted to arbitration may be recognized and enforced.
+
+d) That the composition of the arbitral tribunal or the manner in which the arbitration proceedings were conducted was contrary to the provisions of the arbitration agreement in general, or to the rules of the chosen arbitration procedure, or to the law of the State whose law was applicable, or to the provisions of this Chapter concerning the composition of the arbitral tribunal.
+
+e) That the arbitral award has been set aside or the enforcement thereof has been suspended by a court of the country in which the award was rendered, or that it has been set aside or the enforcement thereof has been suspended under the law of that country.
+
+Secondly, if the Court finds that recognition or enforcement of the arbitral award would be contrary to public policy within the meaning of international private law. 

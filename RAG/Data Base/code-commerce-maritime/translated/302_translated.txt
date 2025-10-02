@@ -1,0 +1,12 @@
+This insurance contract is dated
+The contract is a legally binding agreement that obligates the contracting parties and defines their obligations and rights in relation to the specific transaction.
+By virtue of this contract, the insurer undertakes to pay to the insured or to the beneficiary a sum of money, a periodic income, or any other financial compensation, in the event of the occurrence of the insured event, in exchange for premiums or any other financial payment made by the insured to the insurer.
+Dated on the day it was concluded, it includes:
+- Place of conclusion.
+- Name and address of the contracting parties, specifying when necessary that the insurance is concluded for the benefit of a third party.
+- The thing or interest insured.
+- The risks covered or excluded by the insurance.
+- Duration and location of these risks.
+- The amount insured.
+- Insurance premium.
+- If stipulated, the contract is for the orderer or for the holder. 

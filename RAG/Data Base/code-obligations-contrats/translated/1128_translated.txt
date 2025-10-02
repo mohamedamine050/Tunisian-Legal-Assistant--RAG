@@ -1,0 +1,1 @@
+If the agent is authorized, he has the power to sub-delegate to another in whole or in part.

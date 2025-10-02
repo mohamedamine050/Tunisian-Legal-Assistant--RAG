@@ -1,0 +1,9 @@
+If multiple agents are appointed under a single power of attorney for a single transaction, none of them may act alone without the principal's authorization.  In such a case, none of them may act in the absence of the other, even if participation by the other is impossible.
+
+However, this rule does not apply in two instances:
+
+Firstly: If the power of attorney is for litigation, the recovery of a deposit, the recovery of a debt where there is no dispute, the settlement of a debt whose term has expired, or to undertake actions intended to preserve the rights of the principal, or a certain matter whose omission would cause harm to the principal.
+
+Secondly: If the power of attorney is between merchants in commercial transactions.
+
+In both instances, one of the agents may act alone unless otherwise stipulated.

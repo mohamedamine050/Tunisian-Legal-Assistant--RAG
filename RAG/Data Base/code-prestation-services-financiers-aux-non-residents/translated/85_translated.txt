@@ -1,0 +1,7 @@
+If the license of a non-resident financial services provider is revoked for reasons other than those related to liquidation:
+
+1. Funds deposited with the non-resident financial services provider shall be recovered before the expiry of the period referred to in Article 83 of this Code, except for the funds referred to in number 2 of this article.
+
+2. Financial instruments held by the non-resident financial services provider on behalf of others, and, where applicable, the funds associated with them, shall be transferred before the expiry of the period referred to in Article 83 of this Code to another legally qualified financial services provider appointed by the account holder or, if this is not possible, by the financial services provider pursuant to an agreement after obtaining the opinion of the Capital Markets Authority.
+
+3. Subject to the provisions of number 3 of Article 84 of this Code, and if the case concerns a non-resident credit institution, banking operations that were concluded or undertaken before the decision to revoke the license may continue, except for those referred to in number 1 of this article, in accordance with the conditions specified in the licensing decision, or be transferred to another institution with the prior consent of the beneficiary of the operation. 

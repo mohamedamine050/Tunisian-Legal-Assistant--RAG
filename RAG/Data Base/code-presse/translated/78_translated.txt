@@ -1,0 +1,10 @@
+## English Translation:
+
+**Civil Actions** 
+
+[1] A claim is a request by one person for a right from another in the presence of a judge. The claimant is known as the plaintiff, and the party against whom the claim is made is known as the defendant. 
+[2] A claim is the right of any person entitled to a claim to bring it before the court for a judgment on its merits. It is the right of the opposing party to present arguments in defense or to offer reasons aimed at refuting that claim. 
+
+**Public Actions** 
+
+Public actions, both civil and criminal, arising from felonies, misdemeanors, or violations as provided for in this Code, **shall lapse** after a period of three full months from the date of their occurrence or from the date of another procedural action in the prosecution. 

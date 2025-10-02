@@ -1,0 +1,7 @@
+The following establishments are considered industrial premises:
+
+1. Mines, quarries, and factories for the extraction of raw materials, regardless of their type.
+
+2. Establishments engaged in the conditioning, modification, organization, repair, decoration, completion, and preparation of manufactured goods, or those engaged in the processing of materials, including shipbuilding, machinery dismantling establishments, traditional industries establishments, as well as establishments for the production, transformation, and distribution of electricity and motive power in general.
+
+3. Establishments prepared for the transport of persons and goods by land, sea, and air, including the handling of goods in various land, sea, and air warehouses.

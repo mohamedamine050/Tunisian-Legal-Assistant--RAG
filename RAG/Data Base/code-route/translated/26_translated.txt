@@ -1,0 +1,14 @@
+Every driver, before turning right or left to take another route or to enter an adjacent property, must ensure beforehand that they can do so without danger or obstruction to traffic and must warn other road users. They must also take the following precautions:
+
+1. **If they wish to leave the road to their right:**
+   - They must move as close as possible to the right edge of the road and perform this maneuver in a narrow space as much as possible. However, they may use the left side of the road if the turn radius, vehicle dimensions, or load prevent them from moving to the right. In this case, they must perform this maneuver slowly and only after ensuring they can do so without danger.
+2. **If they wish to leave the road to their left:**
+   - They must move as close as possible to the center of the road if traffic flows in both directions, or to the left edge of the road if traffic flows in one direction.
+3. **If they wish to take another road where traffic flows in both directions:**
+   - They must perform the maneuver in a way that allows them to enter the new road from the right side.
+
+During the maneuver to change direction, the driver must yield to:
+
+- Vehicles coming from the opposite direction on the road they are about to leave, unless a sign indicates otherwise.
+- Bicycles and motorcycles traveling on designated bicycle lanes crossing the road they are about to enter.
+- Pedestrians crossing the road, in accordance with the conditions specified in this Code. 

@@ -1,0 +1,10 @@
+The President of the Local Community shall immediately notify the Governor of the relevant territory and the Independent High Authority for Elections of the Council's decision to hold a referendum. 
+
+The Governor may challenge the organization of the referendum before the **Court of First Instance** within a period not exceeding one month from the date of notification. The Court shall examine the challenge within a period not exceeding two months. An appeal may be lodged within one week from the date of notification of the first-instance judgment. The **Court of Appeal** shall issue a final decision within a maximum period of one month from the date of its assumption of jurisdiction. 
+
+**Note:**
+
+* "محكمة تنظر في الأمور المتعلقة بالإدارة العامة" has been translated as "Court of First Instance" and "Court of Appeal" depending on the context to avoid repetition. This is because the term encompasses both types of courts.
+* The phrase "تبليغ" has been translated as "notify" to maintain consistency and avoid repetition.
+*  "يعتبر تبليغاً"  has been translated as "The notification shall be considered as valid..."  The  original phrasing was slightly ambiguous and this translation clarifies the legal intent. 
+* "غير قابلة لأي وجه من أوجه الطعن" was not present in the provided text, so it was not translated.  

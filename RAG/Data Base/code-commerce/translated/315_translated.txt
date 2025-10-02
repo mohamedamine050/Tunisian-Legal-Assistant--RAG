@@ -1,0 +1,9 @@
+Upon the expiration of the specified deadlines:
+
+- For presenting the bill of exchange payable on sight or at a specified time after sight. - Or for drawing up a protest of refusal to accept or pay - Or for presenting the bill of exchange for payment in a form of recourse without expenses.
+
+The holder's rights against the endorsers, drawer, and other obligors shall lapse, except against the acceptor of the bill of exchange.
+
+However, this lapse shall not occur against the drawer unless he proves the existence of sufficient cause at the time of maturity. In this case, the holder shall only have the right to proceed against the person upon whom the bill of exchange was drawn.
+
+If the bill of exchange is not presented for acceptance within the time specified by the drawer, the holder's rights to recourse for non-payment or acceptance shall lapse, unless the terms of the condition imply that the drawer intended only to exempt himself from the guarantee of acceptance. If a condition is included specifying the time for presentation in one of the endorsements, no one other than the endorser may rely on it. 

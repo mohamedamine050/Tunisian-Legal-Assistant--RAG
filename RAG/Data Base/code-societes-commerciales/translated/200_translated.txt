@@ -1,0 +1,39 @@
+(Amended by Section 1 of Law No. 16 of 2009, dated March 16, 2009)
+
+I - Avoidance of Conflict of Interest
+
+Conflict of interest is a situation where personal interests conflict with professional duties or responsibilities.
+
+The managers of the limited liability company must ensure they avoid any conflict between their personal interests and the interests of the company.
+
+The terms of transactions they conclude with the company they manage must be fair.  They must declare in writing any direct or indirect interests they have in contracts or transactions concluded with the company, or request that this be specified in the minutes of the Board of Directors' meetings.
+
+II - Transactions Subject to Authorization, Approval, and Audit
+
+1. Every agreement concluded directly or indirectly by a related person between the company, on the one hand, and its Chairman of the Board, a delegated member of the Board, its General Manager, one of its assistant General Managers, a member of its Board of Directors, or one of its natural person shareholders directly or indirectly owning voting rights exceeding ten percent, or a company controlling it according to the provisions of Article 461 of this Code, on the other hand, must be subject to prior authorization from the Board of Directors, based on a special report prepared by the auditor(s) specifying the financial and economic effects of the transactions submitted to the company. (Added by Law No. 47 of 2019, dated May 29, 2019)
+
+The provisions of the preceding sub-paragraph apply to agreements in which the aforementioned persons have an indirect interest. Agreements concluded between the company and another company are also subject to prior authorization if the Chairman, General Manager, or delegated member of the Board, one of the assistant General Managers, or a member of the Board of Directors of the company is a jointly and severally liable partner, agent, General Manager, Board member, or generally a manager of that company.  Those mentioned may not participate in voting on the required authorization.
+
+2. The following transactions are subject to prior authorization from the Board of Directors, approval by the general meeting, and audit by the auditor:
+
+- Transfer of commercial assets or any of their constituent elements and goodwill to a third party, unless the main activity of the company is carrying out the aforementioned transactions.
+- Significant borrowing undertaken for the benefit of the company, where the constitutive documents specify this.
+- Sale of real estate, if the constitutive documents stipulate this.
+- Guaranteeing the debts of third parties, unless the constitutive documents stipulate exemption from authorization, approval, and audit up to a certain amount. Lending and insurance institutions are excepted from this.
+- Transfer of fifty percent or more of the gross book value of the company's fixed assets. (Added by Law No. 47 of 2019, dated May 29, 2019)
+
+The Board of Directors shall consider the authorization in light of a special report prepared by the auditor(s) specifying the financial and economic effects of the transactions submitted to the company. (Added by Law No. 47 of 2019, dated May 29, 2019)
+
+3. Each of the persons mentioned in paragraph 1 above must inform the Chairman, General Manager, or delegated member of the Board of any agreement subject to the provisions of the same paragraph as soon as they become aware of it. The Chairman, General Manager, or delegated member of the Board shall inform the auditor(s) of each authorized agreement and submit it to the general meeting for approval. The auditor(s) shall prepare a special report concerning these transactions, and the general meeting shall consider the approval in the light of this report. The interested party who participated in the transaction or had an indirect interest in it may not participate in the vote, and their shares shall not be counted in calculating the quorum and majority.
+
+4. Agreements approved by the general meeting and those for which approval is refused produce their effects against third parties unless declared void on grounds of fraud.  Liability for any harm suffered by the company due to these agreements shall be borne by the person concerned if the Board of Directors did not authorize them and the general meeting did not approve them. With respect to transactions authorized by the Board of Directors but not approved by the general meeting, liability shall be borne by the person concerned and the members of the Board of Directors unless they prove their lack of responsibility.
+
+5. Commitments and undertakings made by the company itself or by a company under its control within the meaning of Article 461 of this Code, for the benefit of the Chairman, General Manager, or delegated member of the Board, assistant General Managers, or members of the Board of Directors, relating to any element of their remuneration, grants, or privileges granted or due to them, or which they may become entitled to in respect of the termination or modification of their duties, or after the termination or modification of their duties, are subject to the provisions of paragraphs 1 and 3 above. In addition to the liability of the person concerned or the Board of Directors, as the case may be, the nullity of agreements concluded in violation of the aforementioned provisions may be ordered if they harm the company.
+
+III - Prohibited Transactions
+
+Except for legal entities that are members of the Board of Directors, the Chairman, General Manager, delegated member of the Board, assistant General Managers, members of the Board of Directors, and their spouses, ascendants, and descendants, and any related person acting on behalf of any of them, are prohibited from obtaining loans from the company, receiving advances, opening overdraft or other current accounts, or receiving support.  They are also prohibited from making the company a guarantor or surety in the undertakings they enter into with third parties; otherwise, the contract shall be void. The prohibition stipulated in the preceding paragraph applies to the permanent representatives of the legal entities that are members of the Board of Directors. No shareholder, their spouse, ascendants, descendants, or any related person acting on behalf of any of them may obtain loans from the company, receive advances, open an overdraft or other current account, or receive support for use in subscribing to the company's shares; otherwise, the contract shall be void.
+
+IV - Free Transactions
+
+The provisions of paragraph II above do not apply to agreements relating to ongoing transactions concluded under normal conditions. The provisions of paragraph III do not apply to ongoing transactions concluded under normal conditions that are concluded by lending institutions. However, these agreements must be the subject of notification by the person concerned to the Chairman of the Board, General Manager, or delegated member of the Board. A detailed list of the aforementioned agreements shall be submitted to the members of the Board of Directors and the auditor(s). These transactions shall be audited in accordance with generally accepted auditing standards.

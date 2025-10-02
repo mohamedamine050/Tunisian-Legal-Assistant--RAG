@@ -1,0 +1,5 @@
+Every party to a transaction shall provide guarantees. 
+
+These guarantees shall be in the form of a document whereby the guarantor guarantees his principal or the seller guarantees that the sale is free from defects and remains fit for its intended use for a sufficient period of time to enable the fulfillment of his obligations arising from the transaction and to recover any sums that may be due to him in respect of that transaction.
+
+However, the party to the transaction may be exempted from providing such guarantees if the transaction concerns the supply of goods or the provision of services to the state and the specific nature of the transaction permits such exemption. 

@@ -1,0 +1,3 @@
+The number of units increases by subscribing to new units and decreases by repurchasing units by the mutual investment fund. 
+
+In the case of pre-subscribed securities, however, new units may not be issued when the original value of the circulating units reaches an amount determined by an order. Similarly, the repurchase of pre-subscribed units is not permitted if the original value of the circulating units falls to fifty thousand dinars. If the original value of the total circulating units remains below one hundred thousand dinars for a period of ninety days, the manager must proceed to liquidate the fund. 

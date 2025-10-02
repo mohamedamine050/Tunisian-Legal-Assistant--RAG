@@ -1,0 +1,1 @@
+If several workers are involved in a single Qirad contract, and the share of each in the profit is not specified in the contract, each shall receive a share of the profit, representing the excess of the company's assets over its liabilities upon inclusion of the company's capital within its debts at the end of the fiscal year, proportionate to his work.

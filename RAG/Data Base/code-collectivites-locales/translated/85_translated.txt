@@ -1,0 +1,13 @@
+## English Translation:
+
+Local communities, by deliberation of their councils, may decide to exploit public facilities with an economic, industrial, and commercial nature through "Public Local Facility Delegation" contracts. These contracts empower a local community, acting as the grantor of the delegation, to authorize a public or private entity, as the delegate, to manage a public facility that does not have an administrative nature, provided that the facility remains under the supervision of the local community. The financial consideration shall be primarily linked to the results of the management of the public facility. The delegation contract may also obligate the delegate to establish facilities, acquire properties, or procure equipment necessary for the operation of the facility. The delegate shall bear the financial risks associated with the facility's activities.
+
+The local community's deliberation shall specify the type of public services proposed for delegation and their technical characteristics. Local communities may seek assistance from specialized offices or institutions for negotiating and preparing draft delegation contracts. Delegation contracts shall be concluded through procedures based on the principles of competition, equality, transparency, and integrity.
+
+**Notes:**
+
+* The original Arabic text uses the term "تفويض مرافق عامّة محلّيّة" which has been translated as "Public Local Facility Delegation".
+* The term "مرفق عام" is translated as "public facility" to reflect the broader concept and avoid confusion with "public service".
+* The phrase "غير قابلة لأي وجه من أوجه الطعن" is translated as "not subject to any form of appeal". 
+* The original text includes some French terms, but these are not translated as they are not directly relevant to the legal content.
+* The translation maintains a similar sentence structure to the original Arabic text for clarity and legal reference. 

@@ -1,0 +1,5 @@
+The value to be declared upon export is the value of the goods at the point of exit, plus, where applicable, transport costs to the border, excluding:
+
+A - The amount of export duties.
+
+B - The amount of internal duties and taxes, and similar costs, for which the exporter has been granted a discharge.

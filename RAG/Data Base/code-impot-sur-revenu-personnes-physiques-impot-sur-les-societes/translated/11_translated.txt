@@ -1,0 +1,54 @@
+I. Net profit is determined by the excess of a company's assets over its liabilities, by including the company's capital among its outstanding debts at the end of the financial year.  Net profit considers the results of all operations, regardless of their type, undertaken by the entity, including in particular the disposal of any asset.  However, the shortfall resulting from the disposal of shares or units of collective investment institutions in securities as stipulated in the Collective Investment Institutions Code, issued by Law No. 83 of 2001 dated July 24, 2001, as amended and supplemented by subsequent texts, is not deductible, within the limit of the shortfall in liquidation value resulting from the distribution of profits or income. (Amended by Article 53 of Law No. 70 of 2007 dated December 27, 2007).
+
+(Sub-paragraph repealed by Article 49 of Law No. 88 of 1997 dated December 29, 1997).
+
+However, the value added tax (VAT) resulting from the disposal of shares listed on the Tunis Stock Exchange acquired or subscribed before January 1, 2011, and shares as part of a listing process on the Tunis Stock Exchange, is deducted from the net profit.
+
+Also deducted from the net profit is the VAT resulting from the disposal of shares listed on the Tunis Stock Exchange acquired or subscribed from January 1, 2011, if disposed of after the end of the year following the year of acquisition or subscription. (Added by Article 29 of Law No. 101 of 1999 dated December 31, 1999, amended by Article 30-1 of Law No. 85 of 2006 dated December 25, 2006, and repealed and replaced by Article 41-1 of Law No. 58 of 2010 dated December 17, 2010).
+
+(Sub-paragraph added by Article 65 of Law No. 80 of 2003 dated December 2003 and repealed by Article 30-2 of Law No. 85 of 2006 dated December 25, 2006).
+
+Furthermore, the VAT resulting from the disposal or transfer of the following securities and related rights is not taken into account in determining net profit:
+
+- Shares of start-up assistance funds as stipulated in Law No. 58 of 2005 dated July 18, 2005, and shares of joint funds for investment in development capital as stipulated in Article 22, thirdly, of the Collective Investment Institutions Code issued by Law No. 83 of 2001 dated July 24, 2001, which use their assets to subscribe to the aforementioned start-up assistance fund shares, in accordance with the relevant legislation.
+
+- Shares of joint funds for investment in development capital subscribed under paragraph II of Article 77 of this Code, if disposed of or transferred after the end of the fifth year following the year of issue, up to 50% of the realized capital gain. (Amended by Article 15 of Law No. 8 of 2017 dated February 14, 2017).
+
+- Shares of joint funds for investment in development capital subscribed under paragraph IV of Article 77 of this Code. (Amended by Article 15 of Law No. 8 of 2017 dated February 14, 2017).
+
+(Paragraph added by Article 1 of Law No. 59 of 2005 dated July 18, 2005, concerning tax provisions aimed at encouraging the creation of start-up assistance funds, amended by Article 25-3 of Law No. 106 of 2005 dated December 19, 2005, repealed and replaced by Article 5 of Decree No. 100 of 2011 dated October 21, 2011, and amended by Article 15 of Law No. 8 of 2017 dated February 14, 2017).
+
+The VAT resulting from contributions in shares and social bonds in the capital of the parent company or holding company is deducted from net profit, provided that the parent company or holding company undertakes to list its shares on the Tunis Stock Exchange by the end of the year following the year of deduction. This deadline may be extended by one year by decision of the Minister of Finance, based on a reasoned report from the Financial Market Authority.
+
+To benefit from this deduction, the annual tax return for the year of deduction must be accompanied by the aforementioned commitment, certified by the Financial Market Authority.
+
+Entities benefiting from this deduction are required to pay the unpaid tax on the capital gain deducted in accordance with the provisions of this paragraph, plus applicable late payment penalties in accordance with the legislation in force, if a certificate proving the listing of the parent company or holding company on the Tunis Stock Exchange by the end of the third month following the aforementioned deadline is not deposited with the competent performance monitoring center or office.
+
+Late payment penalties are not applicable if a certificate is provided by the Financial Market Authority attesting that the failure to list the parent company or holding company on the Tunis Stock Exchange is due to reasons beyond its control. (Added by Article 31 of Law No. 85 of 2006 dated December 25, 2006).
+
+I bis - Exceptional income and profits related to the entities' core business are deducted according to the same limits and conditions stipulated in the legislation in force for income and profits from exploitation. This includes:
+
+- Investment grants awarded under the legislation relating to investment incentives, qualification grants awarded under an approved qualification program, grants awarded under export promotion schemes, and grants awarded to entities under the interventions of the National Employment Fund. (Amended by Article 28-2 of Law No. 58 of 2010 dated December 17, 2010).
+
+- Capital gains resulting from the disposal of fixed assets allocated to the entities' core business, except for buildings, unimproved land, and goodwill.
+
+- Exchange gains related to the sales and purchases of entities in the course of their core business.
+
+- Benefit from debt forgiveness.
+
+(The last sub-paragraph was repealed by Article 37-6 of Law No. 56 of 2018 dated December 27, 2018).
+
+
+II. Net profit consists of the difference between the net asset value at the close and opening of the period whose results are to serve as the basis for income tax, after deducting added contributions and adding what the operator or partners withdrew during the same period.
+
+Net assets refer to the difference between the value of assets and the total of liabilities to third parties, depreciation, and deductible savings existing in the liabilities.
+
+III. For the application of paragraphs I and II of this Article, inventories and work in progress are valued at cost.
+
+IV. Equipment grants awarded to entities are not included in the results of the year of receipt. These grants are added to the net results of the financial years up to the amounts of depreciation based on the cost price of the depreciable fixed assets at the close of these financial years, when used to create or acquire these fixed assets.
+
+One-tenth of the grants used to create or acquire non-depreciable fixed assets is added to the profits of each year for ten years starting from the year of creation or acquisition of these fixed assets.
+
+In the event of disposal of the fixed assets referred to in this Article, the remaining grants not yet added to the tax base are deducted from the book value of these fixed assets in order to determine the capital gain subject to tax or the deductible capital loss.
+
+V. Operating grants and balancing grants received are included in the net results achieved in the year of receipt. Grants awarded to entities and intended to finance intangible investments are included in the net results of each year for ten years starting from the year of receipt. (Amended by Article 36 of Law No. 70 of 2007 dated December 27, 2007).

@@ -1,0 +1,1 @@
+A request for a stay of execution of an authorization does not suspend its execution. Authorizations issued by the requesting party are executed immediately by bailiffs upon their presentation by the interested party. The execution record must include the text of the request and the authorization issued in its favor. 

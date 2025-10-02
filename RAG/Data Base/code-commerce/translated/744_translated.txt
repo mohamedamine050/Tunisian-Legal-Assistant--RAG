@@ -1,0 +1,5 @@
+The surplus shall be calculated based on the remaining period until the due date for payment of the bonds or based on a shorter period in transactions that require the debtor to pay the debt to the beneficiary of the discount before maturity.
+
+The due interest shall be calculated as a percentage of the value of the bonds.
+
+It is permissible to set a minimum amount for the collection of the surplus and the interest. 

@@ -1,0 +1,11 @@
+**Upon the expiry of the specified periods:**
+
+**For presenting the bill of exchange for acceptance or within a period after acceptance,**
+
+**Or for issuing a protest for non-acceptance or non-payment or for presenting the bill of exchange for payment in the form of a bill of exchange payable at sight without charges,**
+
+The holder's rights against the drawer, endorsers, and other obligors, **except the acceptor**, lapse. However, this lapse does not apply to the drawer unless they prove there was a legitimate reason at the time of the due date. In this case, the holder only retains the right to pursue the person on whom the bill of exchange was drawn.
+
+**If the bill of exchange is not presented for acceptance within the time stipulated by the drawer**, the holder's rights to recourse for non-payment or non-acceptance lapse, unless the content of the stipulation implies that the drawer only intended to exempt themselves from guaranteeing acceptance.
+
+**If a condition specifying a period for presentation is included in one of the endorsements, only the endorser can rely on it.** 

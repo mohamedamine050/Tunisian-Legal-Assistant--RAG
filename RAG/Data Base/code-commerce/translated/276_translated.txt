@@ -1,0 +1,13 @@
+Every bill of exchange, even if it does not explicitly stipulate its drawing to order, shall be transferable by way of endorsement.
+
+If the drawer includes the words "not to order" or a similar expression in the text of the bill of exchange, the instrument shall not be transferable except by ordinary assignment, with the consequences thereof.  Endorsement may be made in favor of the drawee, whether he is entitled to the instrument or not, or in favor of the drawer or any other obligor, and these persons may endorse the bill of exchange anew.
+
+The endorsement must be simple and unconditional.
+
+Any condition attached to the endorsement shall be void.
+
+Partial endorsement is void.
+
+Endorsement to bearer shall be deemed an endorsement in blank.  The endorsement must be made on the bill of exchange itself or on a paper attached thereto, that is, an addition, and must include the signature of the endorser.
+
+It is permissible for the endorsement not to name the beneficiary or to be limited to the signature of the endorser only, which is an endorsement in blank. In this latter case, the endorsement shall not be valid unless it is on the back of the bill of exchange or on the addition. 

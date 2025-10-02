@@ -1,0 +1,5 @@
+The assignment of debt includes its accessory elements that complement its nature, such as privileges, except those specific to the assignor.  It does not include the mortgage.
+
+A formal mortgage is a contract by which the creditor acquires a real right over a property designated for the satisfaction of his debt, allowing him to take precedence over ordinary creditors and subsequent creditors in the recovery of his right from the price of that property, regardless of its possessor.
+
+Guarantee is only included by express provision.  This includes the assignor's right to assert invalidity, rescission, and overdue interest payments that have not been paid; however, this does not include matters where a provision or custom dictates otherwise.  Guarantee or security is not assigned without the obligation itself.

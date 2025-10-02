@@ -1,0 +1,1 @@
+Consignments exceeding the declared number shall be considered as consignments imported or exported without declaration.

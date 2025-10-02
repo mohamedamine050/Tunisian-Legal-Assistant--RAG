@@ -1,0 +1,13 @@
+##  Insurance Contract
+
+**Contract**
+
+This contract is a legally binding agreement that obliges the contracting parties and defines their obligations and rights with respect to the specific transaction.
+
+**Insurance**
+
+By this contract, the insurer undertakes to pay the insured or the beneficiary a sum of money, a periodic income, or any other financial compensation in the event of the occurrence of the insured event, in exchange for premiums or any other financial payment made by the insured to the insurer.
+
+**Collective Insurance**
+
+A collective insurance contract is concluded by a legal entity having a legal personality, with its own resources and a separate financial liability from the financial liabilities of its members or shareholders, or by the head of an institution for the purpose of enrolling a group of natural persons who meet the specific conditions set out in the contract, to cover risks of illness or other risks affecting the person's health or related to childbirth.  The same relationship must exist between the subscriber and the enrollees. 

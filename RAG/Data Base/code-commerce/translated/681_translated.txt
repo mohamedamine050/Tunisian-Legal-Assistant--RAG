@@ -1,0 +1,3 @@
+The beneficiary of the transfer becomes the owner of the amount to be transferred at the time the bank debits the orderer's account.
+
+It is permissible to revoke the order of transfer up to that time. However, if an order of transfer is issued in the manner prescribed in the first paragraph of Article 682 hereinafter, it shall result in the final relinquishment of the right to revoke it, subject to the provisions contained in Article 687 hereinafter. 

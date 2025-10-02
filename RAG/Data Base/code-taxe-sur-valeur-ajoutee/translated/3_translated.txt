@@ -1,0 +1,10 @@
+## English Translation:
+
+**I.**  The following transactions are considered finalized in Tunisia:
+
+- **Regarding sales:** Any transaction where the delivery of goods occurs in Tunisia.
+- **Regarding any other transaction:**  Whenever the services provided, the sold right, or the leased item is used or exploited in Tunisia.
+
+**II.** Goods intended for export are considered delivered in Tunisia for the seller, unless they have explicitly declared the export in their own name.
+
+**III.** Goods imported are considered delivered in Tunisia if they are delivered to a person other than the one who used the customs tariff number to complete customs procedures. 

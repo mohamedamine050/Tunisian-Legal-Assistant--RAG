@@ -1,0 +1,1 @@
+Privileges are of two types: general and specific.  The general privilege encompasses all movable and immovable property, while the specific privilege applies only to specific assets.

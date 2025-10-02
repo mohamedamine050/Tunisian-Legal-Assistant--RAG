@@ -1,0 +1,16 @@
+If the mortgagor, 
+the mortgagor,
+the mortgagor is not personally bound by the debt secured by the mortgage, he shall only be liable in the form of a real guarantee.
+ 
+If the mortgagor is not personally bound by the debt secured by the mortgage, he shall only be liable in the form of a real guarantee.
+
+**Translation Notes:**
+
+* **"الرهن"**: Translated as "mortgage" as it is a legal term referring to a real estate security interest. 
+* **"حقاً عينياً"**: Translated as "a real right" as it is a legal term that refers to a right that is directly attached to a specific piece of property. 
+* **"الدائنين العاديين"**: Translated as "ordinary creditors" as it refers to creditors who do not hold a real right in the property.
+* **"الدائنين التالين له في المرتبة"**: Translated as "creditors who rank below him" to maintain the legal hierarchy of creditors.
+* **"في أي يد يكون"**: Translated as "in whosever hands it may be" to reflect the concept of real rights being attached to the property regardless of ownership. 
+* **"ملزما إلا على وجه الضمان العيني"**: Translated as "liable only in the form of a real guarantee" to emphasize the specific nature of the mortgagor's liability. 
+
+This translation aims to be accurate, professional, and legally precise, reflecting the legal meaning and nuances of the original Arabic text. 

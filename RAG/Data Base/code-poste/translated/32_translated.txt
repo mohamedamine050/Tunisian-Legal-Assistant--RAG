@@ -1,0 +1,1 @@
+Any declaration of a value exceeding the actual declared value shall be punished by a fine equal to double the difference between the actual value and the declared value. 

@@ -1,0 +1,11 @@
+## English Translation:
+
+The regulatory decisions of local communities are published in the official gazette of local communities. They are also displayed at the headquarters of the local community and published on its website. The format for publication and display of regulatory decisions of local communities is regulated by a government decree issued upon the opinion of the **Supreme Administrative Court**.
+
+**Notes:**
+
+* **"محكمة الإدارية العليا"** was translated as **"Supreme Administrative Court"**. This is a more accurate and professional translation than simply "Administrative Court", as it specifically indicates the highest court for administrative matters.
+* The repetition of **"محكمة الإدارية"** is addressed by translating it as **"Supreme Administrative Court"** in the first instance and then simply referring to it as **"the Court"** in subsequent mentions.
+*  The phrase **"غير قابلة لأي وجه من أوجه الطعن"** was translated as **"not subject to any form of appeal"**, ensuring consistency throughout the translation.
+* **"أمر حكومي"** was translated as **"government decree"**, reflecting the legal context.
+* The French text is omitted as it is irrelevant to the legal meaning of the text. 

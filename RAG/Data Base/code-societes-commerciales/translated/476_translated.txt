@@ -1,0 +1,5 @@
+A creditor of one of the companies belonging to a group of companies may only claim his debts from the debtor company. He may claim from another company, a member of the same group of companies, or claim jointly and severally from them in the following cases:
+
+- If he proves that a company acted in a manner that could mislead others into believing that it was a participant in the obligations of the debtor company belonging to the group of companies;
+
+- When the parent company or one of the companies belonging to the group of companies intentionally interfered in the debtor company’s activities in its dealings with third parties.

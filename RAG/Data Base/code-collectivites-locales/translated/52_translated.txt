@@ -1,0 +1,12 @@
+## English Translation:
+
+The financial resources of the Higher Council of Local Communities are composed of:
+
+* **Contributions from local communities:** calculated at 0.1% of the transfers from the Decentralization, Adjustment, Settlement, and Solidarity Fund for Local Communities for those local communities whose development index exceeds the national index, and at 0.05% of the same transfers for all other local communities.
+* **Resources from the state budget.**
+* **Grants and donations.**
+* **Other resources.**
+
+The management expenses of the Higher Council of Local Communities are included in a special budget approved by the Council, with the President of the Council being the authorizing officer for its disbursement. The accounts of the Council are subject to the control of the Court of Auditors.
+
+**Note:** The Arabic text mentions "محكمة" twice. The context indicates that it refers to the "Court of Auditors" and not to a general court. This translation incorporates that understanding. 

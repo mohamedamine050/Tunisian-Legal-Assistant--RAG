@@ -1,0 +1,9 @@
+A specialized body known as the National Communications Authority, headquartered in Tunis, shall be entrusted with the following responsibilities:
+
+- Providing an opinion on the method for determining network and service tariffs.
+- Managing national plans related to numbering and addressing.
+- Monitoring compliance with obligations arising from legislative and regulatory provisions in the field of communications.
+- Adjudicating disputes related to the establishment, operation, and exploitation of networks.
+- Providing an opinion on any matter referred to it by the Minister in charge of Communications, within the scope of its mandate.
+- Determining how costs are to be allocated among the various services offered by each network operator.
+- Establishing methods for determining costs to be used in calculating interconnection tariffs, local loop sharing, physical co-location, and infrastructure sharing. (Articles 6 and 7 were added to Chapter 2 by Law No. 1 of 2008, dated January 8, 2008). 

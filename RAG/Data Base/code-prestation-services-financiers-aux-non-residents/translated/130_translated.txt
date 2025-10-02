@@ -1,0 +1,9 @@
+Any concealment of information and any deliberate provision of false information shall be punished by a fine equal to the percentage specified in Article 124 of this Code. Any delay in the notification of the documents, information, explanations and justifications referred to in Article 115 of this Code shall be punished by a fine of two hundred dinars for each day of delay, commencing from the date of its inspection by the officials of the Central Bank of Tunisia or the Financial Market Authority, and shall be collected according to the conditions specified in Article 124 of this Code.  
+
+**Definitions:**
+
+* **"تبليغ" (Tabligh):** Notification
+* **"محكمة التعقيب" (Mahkama al-Ta'qeeb):** Court of Cassation
+* **"محكمة الاستئناف" (Mahkama al-Isti'naf):** Court of Appeal
+
+**Note:** The term "تبليغ" appears twice in the original Arabic text, but is only translated once in the English translation to avoid repetition and maintain clarity. 

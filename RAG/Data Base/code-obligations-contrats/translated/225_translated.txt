@@ -1,0 +1,9 @@
+The solutions mentioned in the contract are also valid if the debtor borrows what he owes from a person to pay his debt and assigns to his creditor the guarantees for that debt. This settlement is valid even without the creditor's consent. If the creditor refuses to collect his money, the debtor shall deposit it with the Public Treasury (literally: صندوق الأمائن).
+
+The validity of the settlement is subject to three conditions:
+
+First: That the loan and receipt be documented with dated instruments.
+
+Second: That the loan instrument explicitly states that the borrowed amount or object is for the payment of the debt, and that the receipt explicitly states that payment was made with the money of the new creditor. If the money is deposited with the Public Treasury, the receiver must state the matters mentioned in the receipt given for the secured money under his custody.
+
+Third: That the debtor explicitly assigns to the new creditor the guarantees established for the old debt.

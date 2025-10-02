@@ -1,0 +1,71 @@
+## English Translation:
+
+**I. With regard to the domestic system, the transaction value subject to VAT shall include the price of goods, works, or services, taking into account all expenses, duties, and levies, as well as the value of objects delivered as consideration, excluding the VAT itself, the exploitation grant, as well as contingent and compensatory deductions.**
+
+**The basis for the payment shall not include amounts received as deposits and the non-return of deposited change.**
+
+**However, for the following operations, the payment basis shall be adjusted according to the following conditions:**
+
+**1) For the sale of passenger transport tickets abroad, the VAT shall be calculated on the basis of a rate equal to 7% of the total amount of the transport ticket, whether sold by the carrier on its own behalf or on behalf of a third party.**
+
+**"However, in the case of invoicing services relating to the promotion of international air passenger transport tickets, VAT shall be calculated on the basis of the amounts relating to these services, plus the amount of commissions charged by ticket promoters on behalf of the carrier, where applicable. Air transport companies that directly promote tickets shall be required to apply the same basis of application as that applied by ticket promoters." (Added by Article 20 of Law No. 70 of 2007 dated December 27, 2007).**
+
+**2) For real estate or commercial assets referred to in Article 1, Paragraph 7 above, the VAT shall be calculated on the basis of the difference between the selling price and the purchase price, taking into account all expenses, duties, and levies, excluding VAT.**
+
+**3) For the delivery of objects to the self, referred to in Article 1, Paragraphs 9 and 10, the VAT shall be calculated on the selling price applied to similar objects, and in the absence thereof, on the cost price determined when the payment is claimed.**
+
+**4) In the event of unjustified loss of objects or goods, the VAT shall be calculated on the cost price.**
+
+**5) For operations involving the exchange of goods or objects subject to payment, excluding real estate which is also subject to adjustment in accordance with the conditions stipulated in Article 9 below, the value of the objects or goods received as consideration for those delivered shall be added, if applicable, to the difference in value between the hands of each of the exchangers.**
+
+**6) a. When a company is a subsidiary of a company whose registered office is outside Tunisia, the VAT payment basis shall be determined in the same way as in the domestic system.**
+
+**b. When a seller company and a buyer company that are not subject to VAT are subsidiaries of each other, the VAT payment basis shall be determined by the former, not on the value of the sales delivered to the latter, but on the selling price prevailing in the latter.**
+
+**However, this procedure shall not apply to products delivered in large quantities and habitually to third parties at the same price**
+
+**agreed upon by the contracting parties, unless it exceeds the value of the sale or is less than that agreed upon by the subsidiaries.**
+
+**These provisions shall also apply even in the absence of a subsidiary relationship, when the taxpayer does not provide evidence that it acted in the best interests of its company.**
+
+**7) When a person carries out several types of operations subject to VAT at the same time, the transaction value shall be determined according to the rules specific to each type of operation.**
+
+**8) If the basis is not otherwise known, it shall be determined on the basis of the gross amount of the fees received or the consideration received on any account whatsoever, following the completion of the operations subject to VAT.**
+
+**9) (Added by Article 34 of Law No. 111 of 1990 dated December 31, 1990, amended by Article 89 of Law No. 123 of 2001 dated December 28, 2001, by Article 37 of Law No. 58 of 2010 dated December 17, 2010, and by Article 33 of Law No. 53 of 2015 dated December 25, 2015). For sales made by traders subject to VAT relating to products delivered by persons not subject to VAT,**
+
+**the VAT shall be calculated on the difference between the selling price and the purchase price.**
+
+**10) (The provisions of this number were repealed by Article 19 of Law No. 54 of 2014 dated August 19, 2014).**
+
+**11) (Added by Article 44 of Law No. 109 of 1995 dated December 25, 1995). For sales made by retail traders subject to VAT referred to in subparagraph 11 of Paragraph II of Article 1 of this**
+
+**Act, the VAT due for each VAT rate shall be calculated:**
+
+**- on the basis of the monthly turnover resulting from sales for which invoices have been issued in accordance with the provisions of Paragraph II of Article 18 of this Act.**
+
+**- on the basis of a calculation resulting from the application of proportional rates to the monthly turnover resulting from sales for which summary invoices have been issued in accordance with Paragraph II of Article 18 of this Act. These proportional rates shall be determined taking into account the share of purchases subject to a given rate in the total amount of monthly purchases.**
+
+**"These provisions shall apply to services rendered by persons referred to in Paragraph II bis of Article 18 of this Act." (Added by Article 122 bis of Law No. 53 of 2015 dated December 25, 2015).**
+
+**12) (Added by Article 69 of Law No. 123 of 2001 dated December 28, 2001). For the turnover of fixed and mobile telecommunications companies that have the status of a telecommunications network operator subject to the telecommunications fee, the VAT shall be calculated on the basis of the value referred to in paragraph 1 above, without taking into account the amount of the aforementioned fee.**
+
+**However, for international transit telecommunications services, the VAT shall be calculated on the basis of an amount equal to 5% of the amounts returned to the aforementioned companies, without taking into account the telecommunications fee. (Added by Article 56 of Law No. 27 of 2012 dated December 29, 2012).**
+
+**13) (Added by Article 49 of Law No. 70 of 2007 dated December 27, 2007, amended by Article 37 of Law No. 7 of 2011 dated December 31, 2011, and amended by Article 169-18 of Law No. 53 of 2015 dated December 25, 2015). For financial lease and lease operations carried out by lending institutions and by microfinance institutions as provided for in Decree No. 117 of 2011 dated November 5, 2011, relating to the regulation of microfinance activities, VAT shall be calculated on the basis of all amounts due in respect of financial lease and lease operations.**
+
+**14) (Added by Article 54 of Law No. 70 of 2007 dated December 27, 2007).**
+
+**For the exploitation of market bonds, the VAT shall be calculated on the basis of an amount equal to 25% of the bond amount.**
+
+**15) (Added by Article 83 of Law No. 54 of 2013 dated December 30, 2013). For surpluses of electricity produced from renewable energies, the VAT shall be calculated on the basis of the difference between the price of electricity delivered by the Tunisian Electricity and Gas Company and the price of electricity it receives from customers, using the tariffs and prices applied according to the usual procedures.**
+
+**16) (Added by Article 35 of Decree No. 21 of 2021 dated December 28, 2021). For chilled agricultural and fisheries products, the VAT shall be calculated on the basis of the difference between the selling price and the purchase price.**
+
+**II. In the case of supplies, the value subject to VAT shall consist of:**
+
+**1) The value declared to customs, taking into account all expenses, duties, and levies, excluding VAT, if the supply operation is carried out by a person subject to VAT or by the state, local public authorities, or public institutions with an administrative character.**
+
+**2) (Amended by Article 90 of Law No. 123 of 2001 dated December 28, 2001, and by Article 37 of Law No. 58 of 2010 dated December 17, 2010). The value referred to in paragraph 1 above, plus 25%, if the supply operation is carried out by a person not subject to VAT or by beneficiaries of the estimated system referred to in Article 44 bis of the Income Tax Act for Individuals and Companies.**
+
+**3) (Added by Article 52 of Law No. 101 of 2002 dated December 17, 2002, and repealed by Article 21 of Law No. 54 of 2014 dated August 19, 2014).** 

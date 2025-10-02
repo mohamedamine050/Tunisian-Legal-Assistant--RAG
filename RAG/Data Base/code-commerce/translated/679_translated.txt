@@ -1,0 +1,3 @@
+There shall be an on-site transfer if the account subject to the debt and the account providing the debt are both open with the same bank.
+
+There shall be a mobile transfer if the account subject to the debt and the account providing the debt are open at different branches of the same bank or at different banks. Any objection by a third party to the beneficiary regarding the amount authorized for a mobile transfer must be communicated to the branch or bank holding the beneficiary's account. 

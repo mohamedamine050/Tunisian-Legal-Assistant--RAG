@@ -1,0 +1,1 @@
+If a debtor has multiple debts and accepts a receipt from the creditor specifying the debt from which the payment was deducted, he will not be able to subsequently deduct it from another debt if the deduction was made in a manner consistent with his interests.

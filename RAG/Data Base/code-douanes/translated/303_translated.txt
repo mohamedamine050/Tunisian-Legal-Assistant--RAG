@@ -1,0 +1,21 @@
+1. The seizure records shall mandatorily include the following details:
+
+- The reason for the seizure, its date and location, and the notification of the suspect.  Suspect herein refers to the suspicion of committing a crime before the charge is filed.
+
+- The identity of the suspect, if known.
+
+- The names, descriptions, and addresses of the officers who conducted the seizure.
+
+- The capacity and address of the officer in charge of the investigation.
+
+- The nature, quantity (or weight) of the seized items.
+
+- The presence of the suspect at the description of those items or notification to him of the proceedings. Suspect herein refers to the suspicion of committing a crime before the charge is filed.
+
+- The name, description, and address of the custodian of the seized items.
+
+- The place and time of signing the record.
+
+- The name, description, and address of the officer who prepared the seizure record, if the officer who conducted the seizure was unable to do so.
+
+2. The record shall be signed by the officers who conducted the seizure and by the officer who prepared it.

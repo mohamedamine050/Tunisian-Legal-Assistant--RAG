@@ -1,0 +1,11 @@
+If there are multiple intercessors for a single property, their ranks are determined as follows:
+
+Firstly: The owner of the land in relation to the owner of its airspace, and vice versa.
+
+Secondly: Joint heirs in an inheritance.
+
+Thirdly: Those sharing in common ownership or in a house, in the manner stipulated in Article 104.
+
+With respect to the latter two categories, the owner of the larger share in the property is given precedence.
+
+If the shares are equal, the order is determined by lot.

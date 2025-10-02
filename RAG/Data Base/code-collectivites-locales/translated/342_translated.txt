@@ -1,0 +1,9 @@
+## English Translation:
+
+The Executive Director, or anyone fulfilling his duties, is entrusted under the authority of the Head of the Region with the management of the Region's administration and the provision of advice to the Regional Council and its subsidiary bodies. The Executive Director attends the meetings of the Regional Council, expresses his opinion, and submits his proposals on the matters discussed, but he does not have the right to vote. The terms and procedures for appointment, employment, transfer, and dismissal of the Executive Director are regulated in the Region's Executive Director Plan, and are subject to a government decree based on the opinion of the **Supreme Administrative Court**.
+
+**Note:** 
+
+* The phrase "**محكمة الإدارية العليا**" is translated as "Supreme Administrative Court" rather than "Court of Cassation" to maintain the legal meaning and avoid confusion with the Court of Cassation in countries with a dual court system. 
+* The repetition of "**محكمة الإدارية**" in the Arabic text has been addressed by using "Supreme Administrative Court" only once. 
+* The French text within the Arabic text is not translated, as it is irrelevant to the legal meaning of the text. 

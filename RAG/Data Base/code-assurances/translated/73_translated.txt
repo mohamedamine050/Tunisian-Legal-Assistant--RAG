@@ -1,0 +1,20 @@
+A professional card shall not be granted to a natural person unless the following conditions are met: 
+
+1. The applicant must be of Tunisian nationality. 
+2. The applicant must not have been subject to a judgment for an intentional misdemeanor. 
+3. The applicant must not have been subject to a judgment of bankruptcy.
+4. The applicant must not be under a legal guardianship preventing the administration of their property. 
+5. The applicant must have obtained a written authorization or contract of appointment if they are an agent for an insurance company or a life insurance product, or be registered in the commercial registry if they are a broker. 
+6. (Amended by Article 1 of Law No. 37 of 2002 dated April 1, 2002) The applicant must meet one of the following professional competency requirements: 
+    * For an insurance broker or an insurance agent:
+        * Must hold a high school diploma and have successfully completed a training course in insurance from an institution authorized by the Minister of Finance and have at least five years of professional experience in the insurance field.
+        * Must have successfully completed the first stage of higher education in law, economics, business, or another scientific discipline with at least three years of professional experience in the insurance field.
+        * Must hold a bachelor's or master's degree in law, economics, business, or another scientific discipline with at least one year of professional experience in the insurance field.
+        * Must hold a third-cycle certificate in advanced insurance studies.
+    * For a life insurance product agent:
+        * Must hold a high school diploma and have successfully completed a training course in life insurance from an institution authorized by the Minister of Finance and have at least two years of professional experience in the life insurance field.
+        * Must have successfully completed the first stage of higher education in law, economics, business, or another scientific discipline, have successfully completed a training course in life insurance from an institution authorized by the Minister of Finance and have at least one year of professional experience in the life insurance field. 
+        * Must hold a bachelor's or master's degree in law, economics, business, or another scientific discipline, have successfully completed a training course in life insurance from an institution authorized by the Minister of Finance.
+        * Must hold a third-cycle certificate in advanced insurance studies.
+
+A professional card may only be granted to a legal entity if the individuals responsible for its administration and management meet the conditions stipulated in this article.

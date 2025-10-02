@@ -1,0 +1,16 @@
+## English Translation:
+
+The oldest member of the Municipal Council in terms of age shall preside over the session at which the President is elected, and the youngest member shall assist him. The Municipal Council shall be convened by the outgoing President or his representative to elect the President and the Assistants in accordance with the forms and deadlines stipulated by law. In case of inability, the Governor shall issue the invitation. The invitation shall specify the election to be held.
+
+The President and his Assistants shall be elected by the Municipal Council by secret ballot and by an absolute majority of its members, taking into account the electoral law and the provisions of Article 7 of this law. If no candidate obtains the absolute majority, a second round of voting shall be held to elect the President of the Council from among the two candidates (*) who obtained the most votes. In the event of a tie, the youngest candidate shall be declared elected.
+
+The order of the assistants of the Mayor shall be determined during their election by the members of the Municipal Council. The Secretary-General shall record the minutes of the election session, a copy of which shall be sent to the Governor. The results of the election of the President and the Assistants shall be announced within twenty-four hours of the date of the election by posting them at the entrance of the Municipality's headquarters and by all other available means.
+
+The validity of the election of the President and the Assistants may be challenged according to the conditions, forms, and deadlines applicable to objections against the election of the Municipal Council before the administrative court within a period of 15 days from the date of the election. 
+
+**Notes:**
+
+* The word "انتخابات" translates to "election" throughout the text.
+* The word "انتخاب" translates to "election" when referring to the process, and "elected" when referring to the outcome.
+* The asterisk (*) indicates a potential missing section in the Arabic text. 
+* The French text has been removed.

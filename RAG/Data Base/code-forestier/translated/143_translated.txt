@@ -1,0 +1,11 @@
+The action of a claim,  a legal procedure initiated by the plaintiff against another party, which may be an individual or a private entity, claiming a right or compensation for a loss caused by the other party, 
+shall lapse 
+in respect of offences and misdemeanors committed in forests after one year from the date of the inspection report being sealed, and after three full years from the date of the misdemeanor if no report was filed. Any action that interrupts the prescribed period for the lapse of the claim shall open a new period of three years from the date of its occurrence.
+ 
+**Notes:**
+
+* "جبر الضرر"  is translated as "compensation for a loss caused" as it encompasses both the damage caused and the remedy sought.
+*  "الدعوى" is consistently translated as "claim"  to maintain legal precision. 
+*  " محضر المعاينة " is translated as "inspection report"  as it signifies a formal record of inspection.
+*  "التنقطع به المدة المعينة لسقوط الدعوى" is translated as "action that interrupts the prescribed period for the lapse of the claim".
+*  The sentence structure is kept as close to the original as possible while ensuring readability in English. 

@@ -1,0 +1,11 @@
+The heir by himself inherits all the property when he is the sole heir, and the remaining property is inherited by those entitled to fixed shares if they exist, and it is excluded for them if they do not exist. These heirs are: 
+
+1. The father
+2. The grandfather, regardless of how far up the lineage he is
+3. The son
+4. The son of the son, regardless of how far down the lineage he is
+5. The full or paternal half-brother
+6. The son of the full or paternal half-brother, regardless of how far down the lineage he is
+7. The full or paternal half-uncle
+8. The son of the uncle, whether the son is below the level of the uncle or above, like the son of a paternal uncle or the grandfather
+9. The State Treasury. 

@@ -1,0 +1,9 @@
+## English Translation:
+
+1. If the claimant fails to submit their pleadings without a justifiable excuse, in accordance with Article 68(1) of this Code, the arbitral tribunal shall terminate the arbitration proceedings. 
+
+2. If the defendant, the person against whom the claim is directed, or the person claiming to be entitled to the claim, fails to submit their defense without a justifiable excuse, in accordance with Article 68(1) of this Code, the arbitral tribunal shall continue the proceedings without considering this default as an admission of the validity of the claim.
+
+3. If one of the parties fails to attend a hearing or to submit their documents without a justifiable excuse, the arbitral tribunal may continue the proceedings and issue its award based on the evidence available to it.
+
+All of the above shall apply unless the parties agree otherwise. 

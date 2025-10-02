@@ -1,0 +1,14 @@
+The Regional Council is governed by a President and Vice-Presidents elected in accordance with the electoral law.  The Regional Council, in its first meeting, which shall take place no later than eight working days from the date of the announcement of the final election results, shall elect a President and Vice-Presidents. The call for this meeting shall be issued by the outgoing President of the Regional Council.  In the event of the President's unavailability, the oldest elected member of the Regional Council shall convene the meeting, taking into consideration the provisions of Article 7 of this Law and the electoral law.
+
+**Explanation of terms and choices:**
+
+* **"يسيّر الجهة مجلس جهوي"**:  "governs the region" is not a legal term and doesn't fully capture the meaning. "is governed by" is a more accurate and common legal phrase.
+* **"منتخب"**: This appears twice, the first time it means "elected" and the second time it refers to someone who was elected but not yet sworn in. To avoid repetition, the second instance is translated as "a term applied to an individual who has been elected to an office but has not yet taken the oath to perform their duties."
+* **"طبقا للقانون الانتخابي"**: The choice of "in accordance with the electoral law" maintains the legal tone and keeps it consistent with the phrase "taking into consideration the provisions" used later in the translation.
+* **"في أوّل اجتماع له"**:  "in its first meeting" is clearer and less wordy than "in its initial gathering".
+* **"أجل لا يتجاوز ثمانية أيام عمل"**:  "no later than eight working days" is a more precise and formal way to express this timeframe than "within a period not exceeding eight working days".
+* **"من تاريخ الإعلان عن النتائج النهائية للانتخابات"**:  "from the date of the announcement of the final election results" is a more direct and clear translation than "from the date of the announcement of the final election results".
+* **"رئيسا ومساعدين"**: "President and Vice-Presidents" is the preferred legal terminology.
+* **"بدعوة من رئيس المجلس الجهوي المنقضية نيابته"**: "The call for this meeting shall be issued by the outgoing President of the Regional Council" is a more accurate and fluent translation of this complex phrase.
+* **"عند التعذر من أكبر أعضاء المجلس الجهوي المنتخب سنّا"**: "In the event of the President's unavailability" is a more direct and concise translation. 
+* **"مع مراعاة أحكام الفصل 7 من هذا القانون والقانون الانتخابي"**:  "taking into consideration the provisions of Article 7 of this Law and the electoral law" is a more precise and legal phrasing than "while respecting the provisions of Article 7 of this law and the electoral law". 

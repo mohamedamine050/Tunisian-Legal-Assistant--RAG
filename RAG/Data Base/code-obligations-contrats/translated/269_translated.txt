@@ -1,0 +1,5 @@
+The debtor shall be considered in default upon the expiry of the term specified in the contract. If no term is specified, the debtor shall not be considered in default until the creditor or his legal representative gives him explicit notice to perform his obligation.  This notice shall specify the following:
+
+Firstly: That the creditor requests the debtor to perform his obligation within a reasonable period.
+
+Secondly: That if this period expires, the creditor shall consider himself discharged from his undertaking. The notice must be in writing and may be by telegram, registered letter, or by a request for the debtor's appearance before a court, even if it is not competent.

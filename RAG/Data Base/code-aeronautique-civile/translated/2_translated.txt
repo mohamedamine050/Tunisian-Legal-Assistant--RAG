@@ -1,0 +1,29 @@
+For the application of this Code, the following definitions shall apply:
+
+**Airport:** An area designated on the surface of the land or water, which may include buildings, structures, and equipment partially intended for the use of aircraft upon arrival, departure, or during movement on the surface.
+
+**Open Airport for Public Air Navigation:** Any airport authorized for use by all aircraft having appropriate technical characteristics.
+
+**Airport for Limited Use:** Any airport designated for activities meeting collective, technical, or commercial needs, operated by persons specifically appointed for this purpose.
+
+**Airport Manager:** The person responsible for the technical operation, facilities, and coordination between various stakeholders at the airport, and who is tasked with issuing take-off and landing authorizations for aircraft.
+
+**Aircraft:** Any machine capable of sustaining itself in the air through reactions of the air other than the reactions of the air resulting from the surface of the Earth.
+
+**State Aircraft:** Any aircraft used for military, space, or security purposes.
+
+**Civil Aircraft:** Any aircraft other than State aircraft.
+
+**Aircraft Commander:** The pilot responsible for the operation and safety of the aircraft during the flight.
+
+**Specialized Services under the Ministry responsible for Civil Aviation:**  Specialized services of the Ministry responsible for Civil Aviation or of public establishments under its supervision.
+
+**Air Transport:** Air transport consists of the carriage of passengers, goods, or mail by aircraft from the point of origin to the point of destination.
+
+**Commercial Air Transport:** Any air operation for consideration, carried out for the purpose or on the occasion of transporting passengers, mail, or goods.
+
+**Air Carrier:** Any air transport company holding an air transport operating license.
+
+**Aircraft Operator:** Any natural or legal person operating or offering to operate one or more aircraft.
+
+**Air Work:** An air operation performed by an aircraft used for specialized services such as agriculture, prospecting, oil exploitation, construction, photography, land surveying, reconnaissance, patrols, search and rescue, and aerial advertising. 

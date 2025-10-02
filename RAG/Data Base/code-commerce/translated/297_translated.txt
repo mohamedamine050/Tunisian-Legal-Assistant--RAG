@@ -1,0 +1,7 @@
+If the payment of the amount of the bill of exchange is stipulated in a currency other than the currency prevailing at the place of performance, the amount may be paid in the currency prevailing in the country, according to its value on the due date. If the debtor delays payment at the due date, the holder has the option to demand payment of the amount of the bill of exchange in the currency prevailing in the country, either according to its value on the due date or according to its value on the date of payment.
+
+The value of foreign currencies is determined according to the prevailing custom at the place of performance. However, the drawer may stipulate that the amount due be calculated according to the specific value specified in the bill of exchange.
+
+The aforementioned rules do not apply if the drawer stipulated payment in a specific type of currency, which necessitates the actual performance of payment in foreign currency.
+
+If the amount of the bill of exchange is specified in a currency that corresponds in name to the currency circulating at the place of drawing and performance, but differs in value, it is understood that the intention is to perform payment in the currency circulating at the place of performance. 

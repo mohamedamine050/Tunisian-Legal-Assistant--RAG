@@ -1,0 +1,1 @@
+Eviction is of two types: eviction by key and eviction by possession.

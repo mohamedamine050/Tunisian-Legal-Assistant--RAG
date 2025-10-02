@@ -1,0 +1,59 @@
+## English Translation:
+
+**I.** The rule of rounding down the figures, considering the part of the dinar as a full dinar, shall apply for the purpose of calculating:
+
+- The income tax.
+- The taxes withheld on total income or income elements.
+
+This shall be done according to the following table:
+
+**Table**
+
+| Income Ranges (Dinar) |  Tax Rate (%) | Actual Rate (%) |
+|---|---|---|
+| 0 to 5,000 | 0 | 0 |
+| 5,000,001 to 20,000 | 26 | 19.50 |
+| 20,000,001 to 30,000 | 28 | 22.33 |
+| 30,000,001 to 50,000 | 32 | 26.20 |
+| Above 50,000 | 35 | - |
+
+*(Amended by Chapter 1-14 of Law No. 78 dated December 17, 2016)*
+
+**II.** The annual tax for commercial and non-commercial activities calculated according to the provisions of this Law and under the conditions of paragraph I of this chapter cannot be less than the minimum tax equivalent to:
+
+- 0.2% of the turnover or gross receipts, with a minimum of 300 dinars, which is payable even in the absence of turnover.  The annual tax payable by the persons referred to in paragraph II of Chapter 22 of this Law, who carry out activities similar to those in the public sector, shall not be less than the tax payable by persons carrying out the same activity under the same plan in the aforementioned sector. These provisions shall apply to the results achieved from the fourth year of activity following the year of filing the declaration of existence, and to the results achieved from January 1, 2015, for persons whose activity started more than four years prior to the aforementioned date. *(Amended by Chapter 10 of Law No. 2014 dated August 19, 2014)*
+
+- 0.1% of the turnover or gross receipts whose generated income benefits from the deduction of two-thirds according to the provisions of this Law, and of the turnover achieved by healthcare institutions providing all their services to non-residents, as stipulated by Law No. 94 of 2001 dated August 7, 2001, arising from their transactions with non-residents or achieved from the sale of products or services subject to the administrative price approval system whose gross profit margin does not exceed 6% according to the legislation and regulations in force, with a minimum of 200 dinars payable even in the absence of turnover.
+
+*(Amended by Chapter 2-2 of Law No. 8 of 2017 dated February 14, 2017 concerning the revision of tax privileges)*
+
+The minimum tax shall not apply to new companies during the project completion period, which shall not exceed three years in any case from the date of filing the declaration of existence as stipulated in Chapter 56 of this Law.
+
+The minimum tax shall apply to companies that have ceased operations and have not filed the declaration stipulated in paragraph I of Chapter 58 of this Law.
+
+The minimum tax stipulated in this paragraph shall be increased by 50% if paid after one month of the legal deadlines. The provisions of this paragraph shall not apply to companies benefiting from the full deduction of their profits or income arising from the exploitation for the duration specified for them by the legislation in force.
+
+*(Amended by Chapter 45 of Law No. 88 dated December 29, 1997, and amended and completed by Chapter 42 of Law No. 106 dated December 19, 2005, and amended by Chapter 1-38 of Law No. 58 of 2010 dated December 17, 2010, and by Chapter 1-48 of Law No. 54 dated December 30, 2013)*
+
+**III.** Contrary to the provisions of paragraphs I and II of this chapter:
+
+- **1.** The added value referred to in paragraph 2 of Chapter 27 of this Law shall be subject to:
+
+- A rate of 15% if the transfer is made within five years from the date of ownership.
+- A rate of 10% if the transfer is made after five years from the date of ownership.
+
+*(Amended by Chapter 47 of Law No. 27 dated December 29, 2012)*
+
+A rate of 10% shall apply to the added value arising from the transfer of inherited gains regardless of the duration of ownership. *(Added by Chapter 3-60 of Law No. 90 dated December 31, 2004, and amended by Chapter 3-47 of Law No. 27 dated December 29, 2012)*
+
+- **2.** The added value referred to in paragraph 3 of Chapter 27 of this Law shall be subject to a rate of:
+
+- 25% if the transfer is made to real estate agencies for tourism and industry, and for housing or to the National Real Estate Company of Tunisia or to the Company for the Promotion of Social Housing, or to persons who undertake in the transfer contract to allocate the land subject to the transfer for the development of an industrial zone in accordance with the legislation in force within the five years following the date of acquisition. In case of non-compliance with these conditions, the transferee shall bear the difference between the tax due at 50% and the tax paid, as well as the penalties calculated according to the current tax legislation.
+
+- 50% in other cases.
+
+The tax paid under the heading of these added values shall be exempt from income tax. *(Amended by the first chapter of Law No. 73 of 1998 dated August 4, 1998 concerning the simplification of tax procedures and the reduction in payment rates)*
+
+- **3.** The added value referred to in the second and third paragraphs of Chapter 33 of this Law shall be subject to income tax at a rate of 10% of its amount. *(Added by Chapter 62 of Law No. 80 dated December 29, 2003 and amended by Chapter 9-41 of Law No. 58 of 2010 dated December 17, 2010)*
+
+**IV.** Abolished by Chapter 1-37 of Law No. 58 of 2010 dated December 17, 2010. 

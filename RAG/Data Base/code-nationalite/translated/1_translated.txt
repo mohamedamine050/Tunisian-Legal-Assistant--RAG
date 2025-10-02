@@ -1,0 +1,4 @@
+This Code defines individuals who are Tunisian nationals by birth, by origin.
+
+Nationality 
+is acquired or lost after birth by operation of law or by virtue of a decision of the public authority taken in accordance with the law. 

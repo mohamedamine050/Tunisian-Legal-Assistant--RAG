@@ -1,0 +1,9 @@
+The investigation of children’s cases shall be conducted by the **Children’s Investigating Judge** in accordance with the procedures stipulated in the Code of Criminal Procedure, unless they conflict with the provisions of this Code. The **Children’s Investigating Judge** shall be authorized to take the appropriate measures provided in Article 87 of this Code. Upon completion of the investigation, the **Children’s Investigating Judge** shall issue one of the following decisions:
+
+- **Dismissal of the case.**
+- **Suspension of proceedings** by decision of the **Public Prosecutor.**
+- **Referral** to the **Family Judge** if necessary.
+- **Referral** to the **Children’s Judge** if the crime constitutes a **misdemeanor** or an **offense**. 
+- **Referral** to the **Court of First Instance** if the acts constitute a **felony**.
+
+If the case involves principal perpetrators or accomplices of the child who have reached the age of eighteen, they shall be referred to the competent court upon prosecution. The case shall be separated in respect of the child, and the child shall be judged in accordance with this Code. The **Children’s Investigating Judge** may consider mediation according to the rules laid down in this Code. 

@@ -1,0 +1,15 @@
+A judgment declaring bankruptcy results in the creditors recovering their rights through individual execution against the debtor, guarantors, and joint debtors.
+
+However, the court may rule in a judgment declaring bankruptcy that the creditors recover their aforementioned rights in one of the following cases:
+
+- If the debt arises from a criminal judgment against the debtor,
+
+- If the debt is related to the creditor's personal status,
+
+- If the debtor is convicted of causing bankruptcy, obstructing settlement procedures, or fraud,
+
+- If the debtor has been subject to bankruptcy proceedings during the five years preceding the bankruptcy judgment,
+
+- If it is proven that the debtor has committed fraud during rescue or bankruptcy proceedings,
+
+- If the creditor is a guarantor or joint debtor with the debtor. 

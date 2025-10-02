@@ -1,0 +1,17 @@
+## English Translation of the Arabic Legal Text:
+
+For the purposes of this Law, the following terms are defined as follows:
+
+- **Postal Activity:**  Refers to a set of services related to the collection, transportation, and distribution of correspondence originating from or addressed to natural or legal persons, both within and outside the country, except for what is prohibited by this Law or other specific legislation. Postal activity also encompasses services related to postal current accounts, savings services, processing of postal transfers, and other postal financial services, as well as products and services related to postage stamps and other postal currency.
+- **Interveners:** Are natural or legal persons of Tunisian nationality authorized to provide services within the postal activity.
+- **Correspondence:**  Encompasses all items that may be sent by authorized interveners, such as letters, parcels, packages, or printed matter. Correspondence is of two types:
+    - **Ordinary Correspondence:**  Correspondence that does not require specific conditions upon deposit or delivery.
+    - **Registered Correspondence:**  Correspondence registered upon deposit at the request of the customer, with a fee and receipt provided for this purpose. Delivery is made to the addressee, their legal guardian, or their agent after signing to acknowledge receipt.
+- **Basic Postal Services:** Are services that fall under postal activity and consist of processing correspondence weighing no more than one kilogram, which can be personal letters, printed matter, parcels, or packages.
+- **Administrative Mail:**  Refers to correspondence originating from public institutions, enclosed in a sealed envelope bearing the name of the sending institution.  The list of these institutions is regulated by decree.
+- **Registered Administrative Mail:**  Correspondence that must be delivered to a specific post office designated for this purpose.
+- **Correspondence with Declared Value:**  Correspondence containing valuables, documents, or objects of value for which the sender has declared the value.
+- **Commercial Mail:**  Refers to reciprocal correspondence for which customs duties are cleared by the authorized addressee in advance.
+- **Electronic Mail:**  Is a postal service provided through telecommunications to transmit correspondence from the sender in physical or electronic form via terminal devices centralized at a post office or at qualified centers.
+- **Postal Transfer:**  A method by which a monetary value is transferred from one natural or legal person to another, from one location to another.
+- **Receipt of Delivery Notice:**  A receipt requested by the sender when depositing registered or declared value correspondence, which is returned to the sender upon delivery of the correspondence to the addressee. 

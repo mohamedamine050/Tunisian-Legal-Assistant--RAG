@@ -1,0 +1,5 @@
+A person bound by a condition precedent shall not, before the condition is fulfilled, perform any act that prevents or hinders the creditor from exercising their rights upon the fulfillment of the condition.
+
+If the condition precedent is fulfilled, any act performed by the obligor during the period that is detrimental to the creditor shall be void, without prejudice to rights acquired in good faith by third parties.
+
+The rule of this article applies to obligations subject to a resolutory condition with regard to acts performed by the party whose rights are extinguished by the occurrence of the condition, without prejudice to rights acquired in good faith by third parties.

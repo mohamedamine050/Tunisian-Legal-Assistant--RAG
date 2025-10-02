@@ -1,0 +1,24 @@
+## English Translation:
+
+The navigation undertaken by each vessel encompasses the following categories:
+
+* **Long-distance navigation**
+* **International navigation**
+* **National navigation**
+* **Coastal navigation**
+* **Fishing navigation**
+
+Long-distance travel refers to voyages exceeding the boundaries of international transit from one port to another, as defined below:
+
+* **Northern limit:** Latitude 72°00' North.
+* **Western limit:** Longitude 12°00' West north of latitude 30°00' North, and Longitude 27°00' West south of latitude 30°00' North.
+* **Southern limit:** Latitude 10°00' North west of the Greenwich meridian and Latitude 30°00' North east of the Greenwich meridian.
+* **Eastern limit:** Longitude 46°20' East.
+
+Navigation between Tunisian ports is designated as national transit from one port to another. 
+
+Coastal navigation is undertaken by the following vessels:
+
+(a) Vessels with a gross tonnage of not more than one hundred tons, which do not venture further than twenty nautical miles from the coast.
+(b) Cargo towing vessels and other craft of various tonnages towed by sea between Tunisian ports.
+(c) Vessels of various tonnages that do not typically leave their home ports and harbors. 

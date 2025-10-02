@@ -1,0 +1,16 @@
+## English Translation:
+
+These documents are considered part of the budget project:
+
+* **Financial statements** containing:
+    * **The budget:** A study of revenues, costs, and conditions of a project over a specific period.
+    * **The balance sheet**
+    * **The statement of financial performance**
+    * **The statement of comparison of budget to expenses**
+    * **The statement of cash flows**
+    * **The statement of commitments**
+    * **Explanatory notes** for the above-mentioned statements.
+* **List of transfers and grants for the benefit of the local community**
+* **List of assistance provided by the concerned community to various associations, structures, and institutions**
+* **List of real estate purchases and sales**
+* **Annual investment program** 

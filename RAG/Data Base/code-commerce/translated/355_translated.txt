@@ -1,0 +1,3 @@
+If a check is written in full words and numbers, the amount written in full words shall prevail in case of any discrepancy.
+
+If the amount is written multiple times, whether in full words or numbers, it shall not be deemed valid in case of any discrepancy, except for the amount that is the least in value. 

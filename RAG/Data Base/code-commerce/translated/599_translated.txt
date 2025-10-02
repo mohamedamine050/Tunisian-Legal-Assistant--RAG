@@ -1,0 +1,9 @@
+If a merchant or any other person pledges an item as security for a commercial transaction, the pledge is established by:
+
+A formal pledge contract, which gives the creditor a real right over the property designated to satisfy his debt, enabling him to take precedence over ordinary creditors and creditors ranking below him in the order of satisfaction of his claim from the proceeds of that property, regardless of who possesses it. 
+
+This applies to contractors and others in accordance with the provisions of Article 598 of this Code.
+
+Negotiable instruments are also pledged by their endorsement if they meet the legal requirements and specify that these instruments were delivered as security. As for shares, partnership interests, and registered certificates belonging to commercial or civil companies, which cannot be transferred until they are entered in the company's registers, and similarly, registered certificates entered in the public debt ledger, their pledge is also established by their transfer as security, provided that this transfer is recorded in the aforementioned registers. The provisions of Article 1561 of the Code of Obligations and Contracts remain applicable regarding other debts.
+
+The secured creditor has the right to collect the value of the pledged commercial papers. 

@@ -1,0 +1,141 @@
+## English Translation of the Arabic Legal Text:
+
+**I**
+
+1) From the Value Added Tax (VAT) levied on taxable operations, the taxpayer shall deduct the amount of VAT actually borne by the elements of the price of a taxable operation, "as well as the VAT that has been deducted from the supplier in accordance with Article 19bis of this Code" (added by Article 38 of Law No. 88 of 1997 dated December 29, 1997).
+
+Taxpayers shall deduct, in total, from the amount of VAT due in accordance with Articles 1 and 2 above, the amount of VAT actually borne on their local purchases from taxpayers or their own deliveries, imports they have carried out, and services necessary for their operational requirements.
+
+If the VAT due for a given month does not allow for the full deduction of the deductible VAT, the remaining amount shall be carried forward to subsequent months.
+
+If the contract between two companies includes the execution of a service and the equipment and materials required for it, and if the project owner imports or purchases locally, in their own name, all or part of the equipment and materials stipulated in the contract, the company executing the project shall be entitled to deduct the VAT paid by the project owner.
+
+If the aforementioned equipment and materials benefit from the suspension of VAT application, their value shall be transferred to the project owner without VAT being calculated.
+
+1bis) (Added by Article 50 of Law No. 70 of 2007 dated December 27, 2007; amended by Article 37 of Law No. 7 of 2011 dated December 31, 2011, and amended by Article 16 of Law No. 53 of 2015 dated December 25, 2015). From the VAT levied on taxable operations, the taxpayer shall deduct the VAT levied on purchases of equipment, machinery, and real estate intended for use under financial lease agreements and lease agreements concluded by lending institutions and by microfinance institutions as stipulated by Decree No. 117 of 2011 dated November 5, 2011, concerning the regulation of microfinance institution activities, "regardless of the accounting recording of these purchases."
+
+1ter) (Added by Article 33 of Law No. 27 of 2011 dated December 31, 2011, and amended by Articles 16-19 and 16-10, and by Article 222 of Law No. 53 of 2015 dated December 25, 2015). With due regard to the current legislation, taxpayers subject to VAT shall deduct the VAT relating to their necessary purchases for their activities from lending institutions and from microfinance institutions as stipulated by Decree No. 117 of 2011 dated November 5, 2011, concerning the regulation of microfinance institution activities, under sale and repurchase, sale and deferred payment, or production contract agreements.
+
+To benefit from the right to deduct, the invoice, fee note, or contract shall specify the amount of VAT borne by the lending institution and the microfinance institution as stipulated by Decree No. 117 of 2011 dated November 5, 2011, concerning the regulation of microfinance institution activities, for their purchases made under these agreements.
+
+2) To benefit from the deduction provided for above, taxpayers must:
+
+a) Possess invoices and fee notes for their local purchases of goods and services issued in accordance with the conditions set out in Article 18 hereafter, or certificates for VAT deduction from the supplier. (Amended by Article 39 of Law No. 88 of 1997 dated December 29, 1997, and by Article 22-2 of Law No. 53 of 2015 dated December 25, 2015)
+
+"However, for deductions from the supplier falling within the scope of application of the electronic platform provided for in Article 55 of the Code of Income Tax for Individuals and Corporate Tax, the deduction of VAT deducted from the supplier shall be limited to the amounts of VAT listed on this platform, taking into account the scope of application and deadlines set out in the decision referred to in Article 55 mentioned above."
+
+(Added by Article 41-3 of Decree No. 21 of 2021 dated December 28, 2021).
+
+b) Possess VAT deduction receipts from the Customs Administration for their imports.
+
+c) Keep a special register numbered and signed by the VAT control centers or offices to which their activity is subject, containing an account of their local purchases from taxpayers, as well as imports and services subject to VAT, if their accounts are not kept in accordance with the provisions of Article 18 hereafter. The purchase account must be closed monthly and must contain the type and value of purchases, imports, and services, indicating the amount of VAT paid.
+
+They must also record in this register, clearly and without any gaps or strikethroughs, all deliveries made or services provided, regardless of the title, as well as receipts received, with an indication of the amount of VAT related to them.
+
+However, the foregoing provisions do not apply to assets subject to depreciation, which remain subject to the provisions of the accounting legislation for companies (Amended by Article 84 of Law No. 101 of 2002 dated December 17, 2002).
+
+d) Record in their accounting system the assets subject to depreciation at their purchase price or cost price minus the VAT deducted in accordance with the aforementioned conditions, adjusting it if necessary according to the provisions set out in paragraph III below.
+
+3) (Added by Article 40 of Law No. 54 of 2013 dated December 30, 2013, and amended by Article 22-22 of Law No. 53 of 2015 dated December 25, 2015).
+
+The VAT included in purchase invoices and fee notes conforming to the provisions of Article 18 of this Code and approved by the tax authorities shall be deducted to adjust the transaction number without resorting to accounting.
+
+**II**
+
+-1) For taxpayers who do not pay VAT on all their transactions, the amount of VAT that can be deducted shall be calculated based on a pro rata share resulting from the ratio between the following elements carried out during the previous year:
+
+- Receipts subject to VAT, plus receipts arising from exports of goods or services subject to VAT or deliveries made under the aforementioned deferred VAT application system, and receipts related to international air transport operations, taking into account the VAT due or not yet required to be paid, on the one hand. (Amended by Article 40 of Law No. 123 of 2001 dated December 28, 2001, and by Article 19 of Law No. 70 of 2007 dated December 27, 2007).
+
+- The amounts referred to in the subparagraph above, plus receipts arising from exempt or excluded VAT operations, on the other hand.
+
+2) For newly partially subject taxpayers, the calculation referred to above shall be adjusted based on the estimated receipts for the first year of their activity.
+
+**III**
+
+1-) At the end of each calendar year, persons partially subject to VAT shall determine the pro rata share of the deduction referred to above, taking into account the elements carried out during the same calendar year.
+
+2) With regard to assets subject to depreciation, an adjustment must be made if the change in the pro rata share of the deduction during the aforementioned year exceeds 5%, either up or down, in relation to the deduction made. The additional deduction or payment of VAT resulting from this change in the pro rata share shall be made in January of the year following the year in which this deduction occurred.
+
+**IV**
+
+-1) In the event of an unjustified loss of assets or goods, taxpayers subject to VAT shall make the adjustment provided for partially subject taxpayers in accordance with the conditions referred to in paragraph III above.
+
+1bis) a) Taxpayers subject to VAT shall not be required to pay the VAT borne by in-kind donations they make to the Tunisian Solidarity Union, up to 1% of their annual turnover, excluding VAT.
+
+The value of in-kind donations shall be assessed on the basis of the cost price excluding VAT at the level of the donor company.
+
+b) However, taxpayers subject to VAT shall pay the VAT borne by in-kind donations made to the Tunisian Solidarity Union exceeding the limit mentioned above, or to other associations. In these cases, VAT shall be calculated based on the cost price excluding VAT and applying the VAT rate applicable to the product donated. VAT shall be paid in the following deadlines:
+
+- Within January of the year following the year of donation for the VAT on in-kind donations made to the Tunisian Solidarity Union exceeding the limit mentioned above.
+
+- Within the month following the month in which the donation was made for in-kind donations made to other associations.
+
+c) To benefit from the provisions of subparagraph 1bis of paragraph IV of this Article, taxpayers subject to VAT who make in-kind donations must provide the competent VAT control office, within the month following the month in which the in-kind donations were made, with a list containing in particular:
+
+- The names, addresses, and tax identification numbers of the beneficiaries of the in-kind donations.
+
+- The date on which the in-kind donations were made.
+
+- A list of the in-kind donations, the cost price, and the VAT rate applicable to the donated product. (Added by Article 57 of Law No. 80 of 2003 dated December 29, 2003).
+
+2) Upon transfer or contribution to a company, or a change in the intended use of these assets. In the event of cessation of activity or withdrawal from the status of taxpayer subject to VAT, payment must be made of an amount equal to the VAT deducted or due to be paid, or which may have been recovered short, by one-fifth for each calendar year or part of a calendar year during which retention occurred if it is equipment or machinery.
+
+And by one-tenth for each calendar year or part of a calendar year if it is buildings.
+
+"These provisions shall not apply when transferring buildings, equipment, or machinery in the following cases:
+
+- Transfer of companies within the framework of judicial settlement as provided for in Law No. 34 of 1995 dated April 17, 1995, concerning the rescue of companies experiencing economic difficulties, as amended by subsequent laws.
+
+- Contribution of an individual company to the capital of a corporation.
+
+- (The third bullet point was deleted by Article 215 of Law No. 8 of 2017 dated February 14, 2017).
+
+Cases of inability to continue managing the company by order shall be regulated.
+
+- "Delivery of donations to the state, local authorities, public institutions and establishments, and associations working in the field of promoting persons with disabilities and in the field of care and support for those lacking family support, which operate according to the legislation governing them" (Added by the fourth bullet point by Article 127 of Law No. 46 of 2020 dated December 23, 2020).
+
+The transferring company must provide the competent VAT control office, within the month following the month in which the transfer took place, with a list containing in particular the following details:
+
+- A description of the buildings, equipment, and machinery transferred.
+
+- The date on which they were acquired.
+
+- The acquisition price excluding VAT.
+
+- The rate and amount of VAT deducted or suspended,
+
+- The percentage of deduction for companies partially subject to VAT.
+
+Cessation of activity or transfer of these buildings, equipment, or machinery shall result in the acquiring company paying the VAT deducted or suspended at the level of the transferring company, minus one-fifth for each calendar year during which retention occurred at the level of the transferring company and the receiving company, if the matter concerns equipment and machinery, and minus one-tenth for each calendar year or part of a calendar year if the matter concerns buildings. (Added by Article 20 of Law No. 85 of 2006 dated December 25, 2006).
+
+2bis) (Added by Article 51 of Law No. 70 of 2007 dated December 27, 2007, and amended by Article 37 of Law No. 7 of 2011 dated December 31, 2011, and by Article 8-1-218 of Law No. 53 of 2015 dated December 25, 2015). When transferring equipment, machinery, and buildings by lending institutions and microfinance institutions as stipulated by Decree No. 117 of 2011 dated November 5, 2011, concerning the regulation of microfinance institution activities, which operate in financial leasing or leasing under financial lease agreements or lease agreements before the end of the financial lease agreements or lease agreements, the adjustment provided for in subparagraph 2 of this paragraph must be made.
+
+2ter) (Added by Article 51 of Law No. 70 of 2007 dated December 27, 2007, and amended by Article 37 of Law No. 7 of 2011 dated December 31, 2011). When transferring equipment, machinery, and buildings acquired under financial lease agreements or lease agreements by taxpayers subject to VAT, the adjustment provided for in subparagraph 2 of this paragraph must be made. In this case, the period of ownership shall be calculated from the date of acquisition at the level of the company that carried out the financial lease or lease operation.
+
+2quater) (Added by Article 65 of Law No. 54 of 2013 dated December 30, 2013, and amended by Article 44-5 of Law No. 66 of 2017 dated December 18, 2017). The allocation of premises intended for housing that benefit from the provisions of No. 53 of Annex "A" of this Code and the provisions of the fourth bullet point of No. 3 of paragraph 2 of Article 7 of this Code for other purposes shall require the payment of the VAT due on the acquisition operation, plus the late payment penalties due in accordance with the current legislation.
+
+2quinquies) (Added by Article 42 of Law No. 54 of 2014 dated August 19, 2014). Press institutions benefiting from the provisions of No. 20 A of Annex "A" of this Code shall be required to pay the VAT due on unused newsprint for the printing of newspapers, or sales of newsprint to non-press institutions, plus the late payment penalties due in accordance with the current tax legislation.
+
+3) The amount of the adjustment must be specified on the sales invoice or the contribution document, regardless of the value of the asset transfer or contribution.
+
+4) In the case of a merger, amalgamation, or change in the legal form of a company, the VAT or the remaining portion of it paid in respect of assets and values that entitle the new company to a deduction shall be transferred.
+
+5) The VAT received shall be deducted from the VAT due upon the occurrence of transactions that are subsequently canceled or annulled, up to the deadlines set out in Article 21 hereafter.
+
+(The second paragraph was deleted by Article 89 of Law No. 54 of 2013 dated December 30, 2013).
+
+"Telecommunications network operators shall deduct from the VAT due the VAT due on short messages intended to collect donations for the preventive health care fund and to address health emergencies, and for the benefit of associations established in accordance with the current legislation and operating in the field of care and support for people suffering from serious illnesses and in the field of care and support for those lacking family support and for persons with disabilities, authorized to collect donations by the competent services of the government.
+
+To benefit from this deduction, telecommunications network operators shall provide the competent tax authorities with the documents relating to the aforementioned operations within the month following the month in which the authorization to collect donations via short messages expires." (This paragraph was added by Article 58-1 of Law No. 66 of 2017 dated December 18, 2017, and amended by Article 43-2 of Law No. 78 of 2019 dated December 23, 2019, and by Article 14 of Prime Ministerial Decree No. 6 of 2020 dated April 16, 2020). 5bis) (Added by Article 66-1 of Law No. 56 of 2018 dated December 27, 2018). Telecommunications network operators shall deduct from the VAT due the VAT due on the amounts related to registration and re-registration operations in primary schools, middle schools, and high schools, excluding commissions.
+
+To benefit from this deduction, telecommunications network operators shall provide the competent tax authorities with the documents relating to the aforementioned operations within the month following the month in which the registration and re-registration operations end.
+
+6) (Newly subject taxpayers, both legally and optionally, shall be entitled to deduct:
+
+a) The VAT levied on assets other than tangible fixed assets held at the date of their subjection to VAT. (Amended by Article 83 of Law No. 101 of 2002 dated December 17, 2002).
+
+b) The VAT levied on tangible fixed assets not used at the date of their subjection to VAT. (Amended by Article 83 of Law No. 101 of 2002 dated December 17, 2002).
+
+c) The VAT levied on tangible fixed assets in use, minus one-fifth for each calendar year or part of a calendar year during which retention occurred if it is equipment or machinery, and minus one-tenth for each calendar year or part of a calendar year if it is buildings. (Amended by Article 83 of Law No. 101 of 2002 dated December 17, 2002).
+
+The right to deduction under the aforementioned conditions shall include the VAT that has been levied on imported products or those acquired from taxpayers or non-taxpayers. An inventory of assets and a statement of the VAT related to them shall be deposited with the competent VAT control center before the end of the third month following the date of their subjection. 

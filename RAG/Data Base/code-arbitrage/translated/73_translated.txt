@@ -1,0 +1,9 @@
+## English Translation:
+
+1. The arbitral tribunal shall decide the dispute in accordance with the provisions of the law designated by the parties.
+
+2. If the parties do not specify the applicable law, the arbitral tribunal shall apply the law it deems appropriate.
+
+3. The arbitral tribunal may decide the dispute according to principles of equity if the parties expressly authorize it to do so.
+
+4. In all cases, the arbitral tribunal shall decide the dispute in accordance with the terms of the contract, taking into account the relevant trade usage applicable to the transaction. 

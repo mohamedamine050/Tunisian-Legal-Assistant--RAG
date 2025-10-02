@@ -1,0 +1,64 @@
+The holder of an exploration license, or a research license and/or an exploitation concession, in relation to the activities of exploration, research, and exploitation of hydrocarbons in the Tunisian territory, is subject to the payment of the following taxes, fees, and charges:
+
+1. **Fixed Fee:**
+
+    a. **Exploration License:** A fixed fee equivalent to the guaranteed minimum wage for a single hour of work performed by an ordinary manual worker, multiplied by the total number of initial perimeters, as defined in Article 13 of this Act, that are included in the perimeter concerned, upon submission of any application for the creation, renewal, or extension of the area of hydrocarbon permits, with the exception of exploration licenses.
+
+    b. **Exploitation Concession:** For each hectare of land included in the exploitation concession, a fixed fee equivalent to the guaranteed minimum wage for an hour of work performed by an ordinary worker, payable no later than June 30th of each year. The fee mentioned above shall be five times the guaranteed minimum wage for an hour of work performed by an ordinary worker, for each hectare, in the case of unused or unexploited concessions. The fee referred to in this article shall be set by a decree issued by the Minister in charge of hydrocarbons, in accordance with the provisions of the first sub-paragraph of this article. The holder of an exploitation concession shall deposit an annual declaration, no later than March 31st of each year, for the previous year, containing all information relating to the production and sale of hydrocarbons, as well as to exploitation expenses. Failure to pay the fee stipulated in this paragraph shall result in the application of the applicable late payment penalties under the 
+    * **Income Tax**
+    * **Income Tax**
+    * **Withheld Taxes on Total Income or Income Components**
+    * **Corporate Tax** laws.
+
+2. **Variable Royalty:**
+
+    a. **Determination and Payment:** A variable royalty on the quantities of hydrocarbons produced by the license holder, payable in kind or in cash, at the discretion of the granting authority and according to the conditions stipulated in the specific agreement. For the purposes of determining the variable royalty, the quantities of hydrocarbons consumed for exploitation needs or injected into the field shall not be taken into account in determining annual production.
+
+    b. **Measurement and Delivery:** The methods of measuring the quantities of hydrocarbons that shall be used to determine the variable royalty and the place of collection, as well as the place of delivery of the hydrocarbons, shall be determined by the specific agreement.
+
+    c. **Royalty Rate:** The variable royalty rate shall be determined according to the factor "H," which represents the quotient obtained by dividing the cumulative net revenue by the cumulative total expenses, achieved by each participating license holder, in relation to each exploitation concession and each research license that may result in the aforementioned concession. For the application of this article:
+
+        * **Cumulative Net Revenue:** The term "cumulative net revenue" refers to the sum of all turnover figures for all fiscal years, including the current year, from which are deducted the total payments and fees due or paid in relation to the previous years to the current year, for the exploitation concession in question.
+        * **Cumulative Total Expenses:** The term "cumulative total expenses" refers to all expenses relating to the research activities carried out within the framework of the research license, to which are added, where applicable, the expenses relating to the exploration works carried out within the framework of the exploration license, and all development and exploitation expenses related to the exploitation concession in question, excluding taxes, fees, and charges due or paid by the license holder in relation to their exploitation. However, exploration expenses incurred pursuant to the first paragraph of Article 49 of this Act may only be attributed to the exploitation concession concerned. Research expenses incurred within the framework of the research license, including, where applicable, those relating to the exploration license, which have been taken into account for the determination of the factor "H" for a specific exploitation concession, shall not be taken into account for the determination of the factor "H" for other exploitation concessions. Depreciations relating to the exploitation concession and all provisions for absorption, regardless of their nature, shall not be taken into account in calculating the total expenses mentioned above.
+
+    d. **Royalty Rates Based on Factor "H":**
+
+        * **Liquid Hydrocarbons:**
+            * 2% when H is less than or equal to 0.5
+            * 5% when H is greater than 0.5 and less than or equal to 0.8
+            * 7% when H is greater than 0.8 and less than or equal to 1.1
+            * 10% when H is greater than 1.1 and less than or equal to 1.5
+            * 12% when H is greater than 1.5 and less than or equal to 2.0
+            * 14% when H is greater than 2.0 and less than or equal to 2.5
+            * 15% when H is greater than 2.5
+        * **Gaseous Hydrocarbons:**
+            * 2% when H is less than or equal to 0.5
+            * 4% when H is greater than 0.5 and less than or equal to 0.8
+            * 6% when H is greater than 0.8 and less than or equal to 1.1
+            * 8% when H is greater than 1.1 and less than or equal to 1.5
+            * 9% when H is greater than 1.5 and less than or equal to 2.0
+            * 10% when H is greater than 2.0 and less than or equal to 2.5
+            * 11% when H is greater than 2.5 and less than or equal to 3.0
+            * 13% when H is greater than 3.0 and less than or equal to 3.5
+            * 15% when H is greater than 3.5
+
+    e. **Minimum Royalty:** However, if the National Company does not participate in a specific exploitation concession, the variable royalty applicable to the concession shall not be less than 10% for liquid hydrocarbons and 8% for gaseous hydrocarbons.
+
+3. **Profit Tax:**
+
+    * **Rates based on Factor "H":** A profit tax at rates that vary according to the factor "H" determined above, as follows:
+        * **Liquid Hydrocarbons:**
+            * 50% when H is less than or equal to 1.5
+            * 55% when H is greater than 1.5 and less than or equal to 2.0
+            * 60% when H is greater than 2.0 and less than or equal to 2.5
+            * 65% when H is greater than 2.5 and less than or equal to 3.0
+            * 70% when H is greater than 3.0 and less than or equal to 3.5
+            * 75% when H is greater than 3.5
+        * **Gaseous Hydrocarbons:**
+            * 50% when H is less than or equal to 2.5
+            * 55% when H is greater than 2.5 and less than or equal to 3.0
+            * 60% when H is greater than 3.0 and less than or equal to 3.5
+            * 65% when H is greater than 3.5
+    * **National Company Participation:** However, in the case of the National Company's participation in a specific exploitation concession, pursuant to the provisions of Chapter I of Title VI, at a rate equal to or exceeding 40%, the profit tax rate applicable to this concession shall be set at 50%.
+
+4. **Calculation of Factor "H":** The methods of calculating and applying the factor "H" shall be determined by decree. 

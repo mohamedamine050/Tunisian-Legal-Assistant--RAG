@@ -1,0 +1,1 @@
+Renewal of the contract terminates the old one if the new contract is valid, even if it is not performed.

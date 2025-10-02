@@ -1,0 +1,20 @@
+## English Translation:
+
+Debts are transferred to the Common Debt Fund by delivering a statement containing the following information:
+
+- The designation "Debt Transfer Statement",
+- A statement that the statement is subject to the provisions of this Code,
+- Identification of the transferee,
+- Specification of the transferred debts, indicating their amounts, debtors, and final maturity dates.
+
+If the debts are transferred by means of information technology that allows for their precise identification, it is sufficient to include, in addition to the above-mentioned information, the means by which the debts were transferred, the number of these debts, and their total amount.
+
+- A statement that the transfer obliges the transferor, upon request of the transferee, to take any measures necessary to maintain the guarantees, to modify them if necessary, to execute them, to release them, or to enforce them.
+
+The effect of the transfer is binding between the parties and is enforceable against third parties from the date indicated on the statement upon its delivery.
+
+The delivery of the statement legally transfers the guarantees attached to each debt and is enforceable against third parties without resorting to other procedures stipulated by existing legislation.
+
+The transfer agreement may stipulate that the transferor benefits from the remaining liquidation of the Common Debt Fund, or a portion thereof.
+
+For all transactions performed on behalf of the joint owners, the Common Debt Fund is legally appointed to act in their place.

@@ -1,0 +1,5 @@
+Succession declarations are registered with the tax office having jurisdiction over the deceased's place of residence.  In the absence of a place of residence in Tunisia, registration is carried out with one of the following tax offices:
+
+- The tax office of the place of death, if death occurred in Tunisia.
+- The tax office of the place of burial, if death occurred abroad and burial took place in Tunisia.
+- The tax office for real estate transfers and successions in Tunis in all other cases.

@@ -1,0 +1,97 @@
+## English Translation of Arabic Legal Text:
+
+**I.** The provisions of Articles 56 to 58 and 62 to 65 and 85 of the Law on Income Tax of Natural Persons and Corporate Tax shall apply to Value Added Tax (VAT). (Amended by Article 18 of Law No. 114 of 1989 dated 30 December 1989).
+
+**II.** Persons subject to VAT, other than those subject to the estimated tax regime, are required to issue an invoice for all transactions they undertake, except in the case of:
+
+- An agreement based on mutual trust.
+
+The invoice shall contain:
+
+- The date of the transaction.
+- The name and address of the customer, as well as their tax identification number, in case of a customer subject to the declaration of existence requirement stipulated in Article 56 of the Law on Income Tax of Natural Persons and Corporate Tax (amended by Article 57 of Law No. 101 of 2002 dated 17 December 2002 and amended by Article 19 of Law No. 54 of 2014 dated 19 August 2014).
+- The tax identification number of the person subject to VAT, issued by the tax administration.
+- The description of the goods or service, along with the price agreed upon by the contracting parties, excluding VAT.
+- The VAT rate and amount.
+
+Persons subject to VAT are also required to:
+
+- State on invoices the amount of VAT that has been suspended pursuant to the legislation in force.
+- Provide the competent VAT monitoring office with a detailed list of invoices issued with VAT suspension, within twenty-eight days following each civil quarter. This list shall be in accordance with a model established by the administration and shall include, in particular, the invoice number, the date of the invoice, the name and surname or the social name of the customer, their address, their tax identification number, the price excluding VAT, the VAT rate and amount that has been suspended, and the number and date of the certificate for the VAT suspension. (Added by Article 114 of Law No. 122 of 1992 dated 29 December 1992 and amended by Article 70 of Law No. 85 of 2006 dated 25 December 2006 and by Article 30-6 of Law No. 666 of 2017 dated 18 December 2017).
+
+Persons subject to VAT who have issued sales invoices under the VAT suspension regime are required to submit the aforementioned list on magnetic media and by reliable electronic means in accordance with the terms of reference set by the administration. (Added by Article 36 of Law No. 27 of 2012 dated 29 December 2012 and amended by Article 41 of Law No. 78 of 2016 dated 17 December 2016).
+
+The above provisions shall apply to sales made by retailers who do not keep accounts in accordance with the accounting legislation for institutions, state and public institutions with administrative character, local authorities, persons subject to VAT, legal persons, and natural persons subject to income tax on industrial and commercial profits and profits from non-commercial professions, as well as to other sales made by retailers whenever the customer requests an invoice. For sales to persons not mentioned in this paragraph, retailers are required to issue a summary invoice on a daily basis. (Amended by Article 89 of Law No. 54 of 2013 dated 30 December 2013). Retailers who do not keep accounts in accordance with the accounting legislation for institutions are required to register in the register referred to in sub-paragraph "c" of paragraph 1-2 of Article 9 of this Law (Amended by Article 89 of Law No. 54 of 2013 dated 30 December 2013):
+
+- Their daily purchases of goods intended for sale, regardless of their tax regime, with a separate indication of the purchase price excluding VAT, the applicable VAT rate, and the amount of VAT for each transaction.
+- The number of their transactions for which invoices were issued in accordance with the provisions of this Article, on a daily basis.
+- The number of their transactions for which summary invoices were issued in accordance with the provisions of this Article, based on the stamp of the cash register account, on a daily basis.
+- Their inventory of goods at the end of each year. (Added by Article 45 of Law No. 109 of 1995 dated 25 December 2015).
+
+**II bis.** (Added by Article 22 of Law No. 53 of 2015 dated 25 December 2015) Persons who earn income in the category of profits from non-commercial professions are required to issue fee notes for the services they provide. The obligations related to mandatory statements and the detailed list of invoices stipulated in paragraph II of this Article shall apply to fee notes.
+
+The provisions of the penultimate paragraph of paragraph II of this Article shall apply to services provided by the persons mentioned above.
+
+Persons mentioned in this paragraph are required to state their tax identification number on all documents related to the practice of their activities, regardless of the entity issuing these documents. Documents related to the practice of activities of the persons mentioned above, which do not include the tax identification number, cannot be accepted, with the exception of medical prescriptions. The provisions of this paragraph shall apply from 1 April 2017. (Added by Article 31 of Law No. 78 of 2016 dated 17 December 2016).
+
+**II ter.** (Added by Article 2-3 of Law No. 53 of 2015 dated 25 December 2015) Persons subject to VAT may issue electronic invoices containing the mandatory statements referred to in paragraph II above. These invoices shall consist of a set of letters and numbers, and shall have understandable content, and shall be stored on an electronic medium that ensures their readability and retrieval when needed.
+
+The electronic invoice shall be:
+
+- Signed electronically by the seller or service provider.
+- Registered with the authorized body.
+- Provided with a unique reference number issued by the authorized body.
+
+The terms and procedures for issuing and storing electronic invoices shall be regulated by a government order.
+
+Electronic invoicing shall be mandatory for transactions carried out with the state, local authorities, public institutions and facilities, by institutions reporting to the management of large institutions.
+
+Electronic invoices shall also be issued for transactions involving the sale of medicines and fuels between professionals, excluding retailers. (Added by Article 46 of Law No. 56 of 2018 dated 27 December 2018). Persons who issue electronic invoices in accordance with the provisions set out above may continue to issue invoices that comply with the provisions of paragraph II of this Article for other transactions they carry out.
+
+Persons subject to VAT who issue electronic invoices are required to submit a declaration for this purpose to the competent department of the tax administration, accompanied by a certificate issued by the authorized body, attesting to their participation in the electronic invoicing network. Persons who issue electronic invoices are authorized to issue paper copies of their electronic invoices, provided that they contain the following statements:
+
+- The registration reference number with the authorized body.
+- The signature and stamp of the invoice issuer.
+
+**1-III**
+
+- Persons subject to VAT are required to:
+
+- Use invoices and fee notes numbered in a regular and uninterrupted sequence.
+- Declare to the VAT monitoring office of their district the names and addresses of their invoice providers and fee notes.
+
+(2) Owners of printing houses are required to keep a numbered register stamped by the tax monitoring authorities, in which they shall record, for each delivery, the names and addresses of their customers and their tax identification numbers, as well as the number of invoices and fee notes delivered and their serial numbers. This procedure shall apply to institutions that print their invoices and fee notes using their own means. (Amended by Articles 1 and 2 of Law No. 53 of 2015 dated 25 December 2015).
+
+(3) Each goods transport shall be accompanied either by an invoice in accordance with the specifications set out in paragraph 11 of this Article or by a document serving as a substitute for the invoice.
+
+The following documents shall serve as substitutes for the invoice:
+
+- A dated delivery receipt containing, in particular, the names and addresses of the sender and the recipient, and a statement of the goods transported and their quantity.
+- A goods exit slip from the warehouse of the establishment, in the case of persons subject to VAT who market their goods by travelling, which shall necessarily contain a statement of the goods transported and their quantity, the date of issuance, and the registration number of the means of transport.
+- The customs document for transport of goods imported from the customs area to the first consignee.
+
+All provisions relating to invoices shall apply to delivery receipts and exit slips. (Amended by Article 66 of Law No. 98 of 1991 dated 31 December 1991).
+
+**IV.** Persons subject to VAT, other than those subject to the estimated tax regime, are required to:
+
+1) Subscribe to and submit a declaration in accordance with the model provided by the administration to the financial treasury, for the purpose of paying the VAT due on them. (Amended by Article 7 of Law No. 82 of 2000 dated 9 August 2000 relating to the issuance of the Law on Tax Rights and Procedures).
+
+a. Within the first fifteen days of each month for natural persons.
+
+b. (Amended by Article 31 of Law No. 125 of 1993 dated 27 December 1993) Within the first twenty-eight days of each month for legal persons.
+
+"This deadline shall be reduced to the first twenty days of each month for legal persons who submit their tax declarations and pay the taxes and penalties related to them remotely via reliable electronic means." (Added by Article 69-2 of Law No. 13 of 2023 dated 11 December 2023).
+
+c. (Abrogated pursuant to Article 32 of Law No. 125 of 1993 dated 27 December 1993).
+
+d. (Abrogated pursuant to Article 32 of Law No. 125 of 1993 dated 27 December 1993).
+
+e. (Added by Article 57 of Decree No. 79 of 2022 dated 22 December 2022) Within the first fifteen days of the month following each civil quarter, for natural persons referred to in paragraph III ter of Article 62 of the Law on Income Tax of Natural Persons and Corporate Tax.
+
+2) Pay the VAT amount in full when the declaration shows a surplus.
+
+Conversely, they must submit a negative declaration.
+
+**V.** (Amended by Article 48 of Law No. 58 of 2010 dated 17 December 2010) Persons who carry out a transaction subject to VAT on an occasional basis are required to subscribe to and submit a declaration and pay the tax immediately, within 48 hours.
+
+**VI.** (Abrogated pursuant to Article 7 of Law No. 82 of 2000 dated 9 August 2000 relating to the issuance of the Law on Tax Rights and Procedures). 

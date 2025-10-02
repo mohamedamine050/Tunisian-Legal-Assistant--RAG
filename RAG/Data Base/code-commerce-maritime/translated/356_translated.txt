@@ -1,0 +1,9 @@
+## English Translation:
+
+**Insurance Contract**
+
+This contract is a legally binding agreement that obligates the contracting parties and defines their obligations and rights with respect to the specific transaction.
+
+Under this contract, the Insurer undertakes to pay the Insured or the Beneficiary a sum of money, a regular income, or any other monetary compensation in the event of the occurrence of the insured event. This is in exchange for premiums or any other monetary payment made by the Insured to the Insurer.
+
+The premium is calculated jointly based on the value of the goods declared. Regardless of the number of incidents that occur during the term of the contract, the Insurer is obligated, in respect of each incident, to the maximum limit stipulated in the contract for a single vessel. 

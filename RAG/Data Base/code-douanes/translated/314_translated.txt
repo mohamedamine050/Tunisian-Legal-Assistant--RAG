@@ -1,0 +1,9 @@
+1. Seizure records shall be nullified if any of the following formal requirements are breached:
+
+- The reason for the seizure, its date and place of occurrence, and a description of the seized goods.
+
+- The identity of the suspect (suspect meaning suspicion of committing a crime before the charges are filed), if known.
+
+- The identity of the officers who conducted the seizure.
+
+2. Inspection records shall be nullified if any of the formal requirements stipulated in paragraph 2 of Article 311 of this Code are breached.

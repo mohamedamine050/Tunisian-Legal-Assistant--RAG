@@ -1,0 +1,7 @@
+If the order instrument lacks any of the statements specified in the previous section, it shall not be considered an order instrument, except in the cases provided for in the following paragraphs.
+
+An order instrument that does not specify the due date shall be considered payable upon presentation.
+
+If no specific place of issuance is stated on the order instrument, the place of issuance shall be the place of payment, which is the same place as the registered office of the obligor.
+
+An order instrument that does not mention the place of issuance shall be considered as issued at the place indicated next to the name of the obligor. 

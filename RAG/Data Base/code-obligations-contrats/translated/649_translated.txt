@@ -1,0 +1,1 @@
+649. If a thing is sold according to a model, and it appears to be lacking a description of the model, then the seller warrants it.  If the model is destroyed or altered, it is incumbent upon the buyer to prove that the thing sold is inferior to the model.

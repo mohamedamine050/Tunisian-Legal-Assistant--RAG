@@ -1,0 +1,10 @@
+The local community accountant specifically exercises the following powers:
+
+- Keeping general accounts.
+- Keeping budget accounts.
+- Keeping inventory accounts.
+- Issuing payment authorizations, including those arising from the execution of contracts and various other obligations.
+- Collecting various amounts related to payment authorizations.
+- Monitoring the keeping of accounts of the local community's funds.
+- Disbursing expenses based on payment authorizations or legal documents submitted by right holders or at their initiative. The public accountant must ensure the legality of payment authorizations, the accuracy of expense allocation, the legality of the debt covered, the availability of appropriations, and the existence of mortgages and various privileges, where applicable. 
+- Preserving all accounting documents, including those forwarded by the authorizing officer. 

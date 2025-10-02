@@ -1,0 +1,13 @@
+The check contains the following information:
+
+1) The word “check” is included in the text of the instrument itself, in the language in which it was written.
+
+2) An absolute, unconditional mandate to pay a specific amount.
+
+3) The name of the person obligated to pay (the drawee).
+
+4) Designation of the place of payment.
+
+5) Designation of the date and place of creation of the check.
+
+6) Signature of the issuer of the check (the drawer). 

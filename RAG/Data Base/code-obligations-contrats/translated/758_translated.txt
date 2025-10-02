@@ -1,0 +1,3 @@
+The lessor guarantees the lessee against defects in the leased property if these defects substantially impair its usability or render it unfit for the purpose for which it was intended, according to its type or according to the purpose intended by the contract.  The lessor also guarantees against defects if it appears that the leased property lacks a characteristic that was declared to exist or whose absence prevents the intended use.
+
+However, there is no guarantee from the lessor for defects that do not result in the loss of the intended use of the leased property, or those that only slightly impair its use without affecting the benefit, as well as defects that are customarily tolerated.

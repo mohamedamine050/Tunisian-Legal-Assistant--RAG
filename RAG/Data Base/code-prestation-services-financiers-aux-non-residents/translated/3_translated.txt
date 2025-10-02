@@ -1,0 +1,18 @@
+## English Translation:
+
+For the purposes of this Code, the following shall be considered financial instruments:
+
+1. **Securities**, which include:
+
+    * Securities issued in the Tunisian Republic as defined by current legislation;
+    * Foreign securities traded on a regulated market under the supervision of a regulatory authority that is a member of the International Organization of Securities Commissions. These include:
+
+        * **Equity securities** issued by joint-stock companies, which encompass shares and bonds that enable or may enable participation in the company's capital;
+
+        * **Debt securities**, excluding commercial paper and treasury bills;
+
+        * **Shares or units of collective investment undertakings.** 
+
+2. **Forward financial contracts** traded on a regulated market under the supervision of a regulatory authority that is a member of the International Organization of Securities Commissions.  If the underlying assets of these contracts are securities, such securities must be issued on a regulated market under the supervision of a regulatory authority that is a member of the International Organization of Securities Commissions. These contracts include: option contracts, forward contracts, swap contracts, agreements relating to future rates, and other forward contracts linked to financial instruments, underlying commodities traded on a foreign market, foreign currencies, interest rates based on indexes.
+
+These contracts must meet the conditions stipulated by order. 

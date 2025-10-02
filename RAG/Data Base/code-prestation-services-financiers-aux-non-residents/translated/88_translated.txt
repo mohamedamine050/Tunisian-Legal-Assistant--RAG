@@ -1,0 +1,9 @@
+The appointment of a liquidator shall result in the following:
+
+- **Extension of all deadlines:** Any deadline specified in the contracts entered into by the service provider, in its articles of association, or any other deadline relating to the expiration or extinction of a debt or right in favor of the service provider shall be extended for a period of six months from the date of such expiration or extinction.
+
+- **Suspension of shareholder rights:** All rights of the shareholders shall be suspended, except for their right to the net proceeds resulting from the liquidation of the service provider's assets. 
+
+- **Right to challenge transactions:**  The liquidator, from the date of the appointment, may request the Court to annul any payment or transfer of assets by the service provider that occurred during the three months preceding the liquidator's assumption of duties, or during the twelve months preceding if the payments or transfers were made to a subsidiary of the service provider, or to a company or person holding shares in the capital of the service provider, whenever it is established that such payments or transfers were not related to the ongoing operations of the service provider and were made with the aim of providing an advantage to that person or those companies. 
+
+- **Exception for payment systems:** Notwithstanding any conflicting legal provisions, payments and deliveries of financial instruments made within the framework of payment systems between authorized service providers, or within the framework of systems related to the payment and delivery of financial instruments, shall not be annulled until the end of the day on which a written judgment of bankruptcy is rendered against a service provider directly or indirectly participating in such systems, even if such judgment is issued.

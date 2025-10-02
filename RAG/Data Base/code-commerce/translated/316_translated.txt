@@ -1,0 +1,9 @@
+If an obstacle arises that cannot be overcome without presenting the bill of exchange or drawing up a protest within the specified time limits, such as the existence of a legal provision in a country or other circumstances of force majeure, then the aforementioned time limits shall be extended.
+
+The holder must immediately notify the drawer of the force majeure and ensure this notification is recorded on the bill of exchange or a document added to it, and must date and sign it. The provisions of Chapter 308 shall apply to the remainder. The holder must, after the force majeure ceases, present the bill of exchange for acceptance or payment and, if necessary, draw up a protest.
+
+If the force majeure continues for more than thirty days from the due date, then an action for recourse can be brought without the need to present the bill of exchange or draw up a protest, unless this action is subject to a longer period of time under a legal provision.
+
+With regard to a bill of exchange payable on sight or after a certain period from sight, the period of thirty days commences from the date on which the holder notified the drawer of the occurrence of the force majeure, even if this was before the expiry of the presentation periods. With regard to bills of exchange payable after a certain period from sight, the period of thirty days shall be added to the period from sight specified in the bill of exchange.
+
+Acts of the holder or the person entrusted with the presentation of the bill of exchange or the drawing up of the protest, that are purely personal in nature, shall not be considered force majeure. 

@@ -1,0 +1,18 @@
+A maritime claim is any claim or debt arising from any of the following:
+
+1. Damages caused by a vessel, whether through collision or otherwise.
+2. Loss of life or personal injury caused by a vessel or arising from its operation.
+3. Salvage and assistance.
+4. Contracts relating to the use or charter of a vessel, whether by charter party or any other method.
+5. Contracts relating to the carriage of goods by a vessel, whether under a charter party, bill of lading, or otherwise.
+6. Damage or loss to goods and baggage carried by a vessel.
+7. General average.
+8. Towage.
+9. Pilotage.
+10. Supplying a vessel, wherever it may be, with materials or equipment for its operation or preservation.
+11. The construction, repair, outfitting, or dry-docking of a vessel.
+12. The wages of masters, officers, and crew members.
+13. Expenses incurred by the master, shippers, charterers, or agents on behalf of the vessel.
+14. Any dispute over the ownership of a vessel, or a dispute over the sharing of ownership of a vessel.
+15. The operation of a vessel or the right to the proceeds of its operation.
+16. Any maritime lien, and generally any debt arising from any of the reasons that allow the application of the determination of the liability of ship owners or outfitters. 

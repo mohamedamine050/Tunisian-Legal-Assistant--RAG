@@ -1,0 +1,5 @@
+The depositary must return the deposit to the depositor, even if a third party claims a right to it, unless a court officer establishes its ownership and entitlement. In that case, the depositary must immediately inform the depositor and withdraw from the case.
+
+[1] A claim is a request by one party for another's right in the presence of a judge; the requester is called the plaintiff and the one requested from is called the defendant. [2] A claim is the right of anyone who has a claim to bring it before the court to obtain a judgment on its subject matter. With respect to the defendant, it is the right to present arguments or defenses aimed at refuting that claim simply by proving that he is a depositary only.
+
+If the duration of the litigation exceeds the term for the return of the deposit, the depositary may request the court's permission to deposit it with the court registry in the name of the person found entitled to receive it.

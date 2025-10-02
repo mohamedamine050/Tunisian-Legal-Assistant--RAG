@@ -1,0 +1,1 @@
+It is not permissible to request partition if doing so would defeat its purpose.

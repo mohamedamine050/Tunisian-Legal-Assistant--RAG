@@ -1,0 +1,3 @@
+Considered cash shares are:
+
+- Shares whose value is paid in liquid funds or by offsetting, or those issued following the capitalization of reserves, profits, or share issue premiums.  - Shares whose value is derived in part from the capitalization of reserves, profits, or share issue premiums, and in part from the cash payment of contributions. Except for shares paid "in cash", cash shares are fully payable upon subscription. Any share not of the aforementioned type is considered an in-kind share.

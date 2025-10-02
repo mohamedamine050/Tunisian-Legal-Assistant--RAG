@@ -1,0 +1,7 @@
+Regardless of the provisions of Articles 69 and 77 of this Code, the sea or air carrier associated with the integrated automated system for processing foreign trade procedures may lodge a cargo manifest with customs before the arrival of the vessel or aircraft using reliable electronic means, in accordance with the legislation concerning electronic exchanges.
+
+The process of lodging a pre-arrival cargo manifest electronically exempts [the carrier] from undertaking any other procedure having the same purpose.
+
+The pre-arrival cargo manifest shall be considered null and void in the event that the vessel or aircraft does not arrive.
+
+The procedures for implementing the provisions of this Article shall be determined by order.

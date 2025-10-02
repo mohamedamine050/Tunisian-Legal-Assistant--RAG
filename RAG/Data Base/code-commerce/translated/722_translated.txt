@@ -1,0 +1,3 @@
+A documented credit may be either revocable or irrevocable.
+
+Every credit shall be considered irrevocable unless an express condition stipulates otherwise. 

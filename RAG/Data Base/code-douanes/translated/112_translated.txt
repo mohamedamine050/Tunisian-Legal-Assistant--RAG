@@ -1,0 +1,1 @@
+If several chapters of goods are specified in a single declaration form, then each chapter shall be considered an independent declaration.

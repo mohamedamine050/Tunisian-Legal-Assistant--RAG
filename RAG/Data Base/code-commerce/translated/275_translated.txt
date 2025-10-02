@@ -1,0 +1,11 @@
+The drawer, or the person for whose account the bill of exchange is drawn, is liable for payment. This does not preclude the drawer, on account of another, from remaining personally liable to the drawee and the holder, as the case may be.
+
+The liability shall be deemed to exist at the due date of the bill of exchange if the drawee is indebted to the drawer, or to the person for whose account the bill was drawn, for an amount at least equal to the amount of the bill of exchange.
+
+The ownership of the liability shall legally be transferred to the successive holders of the bill of exchange.
+
+Acceptance is prima facie evidence of the existence of the liability.
+
+Such acceptance is conclusive evidence of its existence in the eyes of the drawees.
+
+It shall be solely upon the drawer, whether acceptance has been obtained or not, to prove, in case of denial, that the drawee had the liability at maturity, otherwise he shall be liable for it, even if the objection is raised after the prescribed periods. 

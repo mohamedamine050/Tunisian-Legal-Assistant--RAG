@@ -1,0 +1,1 @@
+If the specified currency in the contract becomes invalid or ceases to circulate at the time the debt is due, performance shall be made in the currency currently circulating in Tunisia, according to the intrinsic value of the specified currency at the time of the contract.

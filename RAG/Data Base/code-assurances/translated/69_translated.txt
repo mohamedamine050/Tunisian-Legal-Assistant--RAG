@@ -1,0 +1,13 @@
+Insurance operations can be presented through:
+
+The insurance contract is a binding legal agreement that obligates the contracting parties and defines their obligations and rights regarding the specific transaction. 
+By this contract, the insurer undertakes to pay the insured or the beneficiary a sum of money, a regular income, or any other financial compensation in the event of the occurrence of the insured event, in exchange for premiums or any other financial payment made by the insured to the insurer.
+
+Generally, insurance operations are carried out through intermediaries, namely:
+
+1. **Insurance Broker**: This is the person who acts as an intermediary between the insured and insurance companies. They are responsible for finding the best insurance coverage for their clients and negotiating the terms of the insurance contract. The broker acts as an agent for the insured, and is responsible to them.
+2. **Insurance Agent**: This is the person who is appointed by a power of attorney to conclude insurance contracts. They act on behalf of and for the account of one or more insurance companies. They can operate independently or as part of a professional civil company.
+3. **Life Insurance Producer**: This is a natural person, whether employed or not, who is mandated by an institution engaged in life insurance operations. They are limited to offering life insurance contracts and collecting premiums when necessary. A life insurance producer can only represent one insurance company.
+4. **Banks**: Banks that are entrusted under an agreement to conclude insurance contracts on behalf of and for the account of one or more insurance companies, regardless of their form and notwithstanding any conflicting provisions, for the branches of insurance whose list is determined by a decree of the Minister of Finance. (Added by Article 3 of Law No. 37 of 2002 dated April 1, 2002).
+5. **National Post Office**: The National Post Office that is entrusted under an agreement to conclude insurance contracts on behalf of and for the account of one or more insurance companies, regardless of all conflicting provisions, for the branches of insurance whose list is determined by a decree of the Minister of Finance. (Added by Article 39 of Law No. 80 of 2003 dated December 29, 2003).
+6. **Microfinance institutions**:  Microfinance institutions that are entrusted under an agreement to conclude insurance contracts on behalf of and for the account of one or more insurance companies, regardless of their form and notwithstanding any conflicting provisions, for the branches of insurance whose list is determined by a decree of the Minister of Finance. (Added by Article 10 of Decree No. 117 of 2011 dated November 5, 2011). 

@@ -1,0 +1,1 @@
+A transfer is only valid if both debts are legally sound.  Similarly, a transfer is not valid for rights whose acquisition is doubtful.

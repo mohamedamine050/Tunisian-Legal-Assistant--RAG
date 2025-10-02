@@ -1,0 +1,11 @@
+Insurance may be concluded for the benefit of the subscriber of the contract, or for the benefit of a designated person, or for the benefit of the person who will ultimately be entitled to the insured object, by way of power of attorney or otherwise. The contract shall include: 
+
+* The date of subscription.
+* The particulars of the contracting parties.
+* The insured risk or the due date of payment.
+* The object or person insured.
+* The insurance premium.
+* The amount of insurance.
+* The effective date of the contract and its duration.
+
+The contract is a legally binding agreement that obliges the contracting parties and defines their obligations and rights in relation to the specific transaction. By the contract, the insurer undertakes to pay the insured or the beneficiary a sum of money, a regular income, or any other financial compensation in the event of the occurrence of the insured event, in return for premiums or any other financial payment made by the insured to the insurer or a known subscription fee.

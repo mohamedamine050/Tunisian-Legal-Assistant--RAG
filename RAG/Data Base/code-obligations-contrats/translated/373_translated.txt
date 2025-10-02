@@ -1,0 +1,1 @@
+Set-off is only valid if the two debts are of the same kind.  This includes set-off in movables of the same kind and quality, or in money and foodstuffs.

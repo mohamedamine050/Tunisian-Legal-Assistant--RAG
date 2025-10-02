@@ -1,0 +1,1 @@
+If a debt is assigned to two persons, the one who first notifies the debtor of the assignment takes precedence over the other, even if the date of his assignment is later.

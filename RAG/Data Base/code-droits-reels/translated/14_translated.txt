@@ -1,0 +1,1 @@
+Moveables are, by their nature, objects that can be moved from one place to another, whether they move by themselves or by the action of an external force.

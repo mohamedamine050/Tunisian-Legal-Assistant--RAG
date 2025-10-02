@@ -1,0 +1,5 @@
+It is permissible for the check to be payable at a foreign place, either in the country where the drawee has its registered office or in another country, provided that the foreign place is either a bank or a postal order office.
+
+If a check includes a designation of the Central Bank of Tunisia or a bank authorized by the Central Bank of Tunisia or a postal order office as the designated place of payment, then this addition to the check text shall not be subject to any form of appeal.
+
+Furthermore, this designated place cannot be designated within the same country where payment is made against the will of the holder, unless the check is drawn and the designated place is specified as the Central Bank of Tunisia. 

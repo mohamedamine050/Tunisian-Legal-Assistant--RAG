@@ -1,0 +1,18 @@
+If the insurance contract includes a clause concerning the notification of war, then it is permissible for the insured to abandon the ship if it is seized, detained, or stopped by an order of the authorities and the insured has not recovered control of it within four months. This period of four months shall commence from the date of notification of the incident to the insurer by the insured.
+
+Notification, for the purposes of this clause, is deemed to be the signing of the notice by the defendant, or his agent in the presence of the relevant official, on the notice paper, or on the statement of claim for appearance at the designated time.
+
+**Explanation of Key Terms:**
+
+* **Insurance Contract:** This refers to the agreement between the insurer and the insured that defines their obligations and rights.
+* **Notification of War:** This is a clause that allows for the insured to abandon the ship in certain circumstances during war, such as seizure by authorities.
+* **Abandonment of Ship:** This refers to the insured relinquishing their rights to the ship, thereby transferring ownership to the insurer.
+* **Seized, Detained, or Stopped:** These refer to actions taken by authorities that prevent the insured from controlling the ship. 
+* **Four Months:** This is the timeframe within which the insured must recover control of the ship or face the possibility of abandonment. 
+* **Notification of Incident:** This refers to the insured's obligation to inform the insurer about the event that triggers the abandonment clause (in this case, the seizure, detention, or stopping of the ship).
+* **Defendant:** The insured in this case.
+* **Agent:** A representative of the insured.
+* **Relevant Official:** A designated official with authority to receive notification.
+* **Notice Paper:** A document used for formal notifications.
+* **Statement of Claim:** A formal document filed by the insured in court.
+* **Designated Time:** The time set for the defendant to appear in court. 

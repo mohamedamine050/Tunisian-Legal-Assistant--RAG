@@ -1,0 +1,7 @@
+Any clause, even if added after the contract, that grants the creditor ownership of the mortgage is void.
+
+An official mortgage is a contract by which the creditor acquires a real right on a property designated to satisfy his debt.  This right allows him to take precedence over ordinary creditors and subsequent creditors in recovering his debt from the proceeds of that property, regardless of possession, or to dispose of it without completing the formalities required by law in the event of the debtor's default.
+
+Similarly, any clause, even if added after the contract, that grants a third-party trustee the power to liquidate the mortgage is void.
+
+An official mortgage is a contract by which the creditor acquires a real right on a property designated to satisfy his debt. This right allows him to take precedence over ordinary creditors and subsequent creditors in recovering his debt from the proceeds of that property, regardless of possession, and the creditor's discharge without completing the formalities required by law in the event of the debtor's default.

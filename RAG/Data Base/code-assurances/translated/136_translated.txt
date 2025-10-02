@@ -1,0 +1,14 @@
+The amount of compensation for damages shall be determined as follows:
+
+Damages, as defined by [1] harm caused by a violation of the law affecting a person's body, mental or psychological health, reputation, property, or honor, [2] loss or damage to property, deprivation of comfort, harm to physical well-being, reputation, or the like, - in crimes and quasi-crimes, damages include actual losses suffered by the claimant, necessary expenses incurred or to be incurred to remedy the consequences of the act that caused harm, as well as the deprivation of benefits within the ordinary scope of the consequences of this act, shall be calculated based on the degree of damage as determined in the medical report. Compensation for these damages shall be calculated based on a percentage of the guaranteed minimum annual wage for a forty-hour work week, according to the following scale:
+
+Degree of Damage | Amount of Compensation
+------- | --------
+Nil | 0%
+Very Slight | 10%
+Slight | 15%
+Moderate | 25%
+Medium | 40%
+Significant | 80%
+Very Significant | 150%
+Extremely Significant | 300% 

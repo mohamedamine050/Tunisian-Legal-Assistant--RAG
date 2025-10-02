@@ -1,0 +1,3 @@
+The holder of a bill of exchange is considered its legal holder if he proves his right through an uninterrupted chain of endorsements, even if the last endorsement is made in blank.  Endorsements that have been crossed out are void in this situation. If an endorsement in blank is followed by another endorsement, the holder of the latter endorsement is considered to have acquired the bill of exchange by virtue of the endorsement in blank.
+
+If a bill of exchange is taken from a person due to any incident, the holder who proves his right according to the manner outlined in the preceding paragraph is not obliged to relinquish it, unless he acquired it in bad faith or committed a gross error in acquiring it. 

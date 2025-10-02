@@ -1,0 +1,21 @@
+## English Translation of Arabic Legal Text:
+
+**Article 119**
+
+1. At the end of each fiscal year referred to in Article 118 of this Code, the accumulated savings "R" intended to be constituted for the fiscal year in question and previous fiscal years shall be calculated according to the following formula:
+
+A x T x R = --------
+
+B
+
+The letters "A", "B", and "T" in the formula represent the following:
+
+A. Total production from exploitation at the end of each fiscal year during which the licensee has the right to constitute savings, starting from the first year of these years.
+B. The cumulative reserves of hydrocarbons recoverable from exploitation during all years during which the savings are constituted.
+T. Estimated expenditures dedicated to the restoration of the site after deducting, where applicable, the realizable values of installations, equipment, and other items with a recoverable value.
+
+For the purpose of determining the accumulated savings at the end of each fiscal year, all changes that may occur during a fiscal year in the evaluation of factors (B) and (T) shall be taken into account.
+
+2. The Minister in charge of hydrocarbons shall approve the aforementioned factors and their review prior to their application.
+
+3. In case of disagreement, these factors shall be assessed by an independent expert approved by the granting authority and the licensee. However, in case of disagreement by one of the parties regarding the proposed expert, the latter shall be appointed by a third party specializing in the field of hydrocarbons and agreed upon by both parties. 

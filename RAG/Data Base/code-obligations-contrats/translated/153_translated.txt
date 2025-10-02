@@ -1,0 +1,1 @@
+If the option is periodic, repeating at specified intervals, then the selection of one item does not preclude the selection of another item at a later time, unless the contract stipulates otherwise.

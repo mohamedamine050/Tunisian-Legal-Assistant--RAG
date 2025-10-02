@@ -1,0 +1,31 @@
+## English Translation:
+
+The expenditures under the first heading are allocated as follows:
+
+* **Section One:** Public Leasing
+* **Section Two:** Means of Public Interests
+* **Section Three:** Public Intervention
+* **Section Four:** Emergency and Unallocated Operating Expenses
+* **Section Five:** Interest on Debt
+
+These expenses are grouped into two parts:
+
+* **Part One:** Operating Expenses, comprising Sections One, Two, Three, and Four.
+* **Part Two:** Expenses related to interest on debt (Section Five).
+
+The expenditures under the second heading are allocated as follows:
+
+* **Section Six:** Direct Investments
+* **Section Seven:** Public Financing
+* **Section Eight:** Emergency and Unallocated Development Expenses
+* **Section Nine:** Development Expenses Linked to Allocated External Resources
+* **Section Ten:** Principal Debt Repayment
+* **Section Eleven:** Expenses Paid from Transferred Credits
+* **Section Twelve:** Expenses of Participating Funds Accounts
+
+These expenses are grouped into three parts:
+
+* **Part Three:** Development Expenses, comprising Sections Six, Seven, Eight, and Nine.
+* **Part Four:** Principal Debt Repayment Expenses, comprising Section Ten.
+* **Part Five:** Expenses Paid from Transferred Credits, comprising Section Eleven.
+* **Part Six:** Expenses of Participating Funds Accounts, comprising Section Twelve. 

@@ -1,0 +1,1 @@
+Whoever is ranked ahead is considered to be ahead, even if he is behind someone whose rank is lower. 

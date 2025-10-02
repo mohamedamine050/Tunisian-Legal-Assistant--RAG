@@ -1,0 +1,1 @@
+Property without an owner belongs to the state.

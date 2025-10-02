@@ -1,0 +1,13 @@
+The payment of the amounts of the bill of exchange may be guaranteed in whole or in part by a guarantor.
+
+This guarantee may be given by a third party or even by one of the signatories of the bill of exchange.
+
+The guarantee must be given in writing on the bill of exchange itself or on the back thereof, or by a separate document specifying the place where it was given.
+
+It is expressed by words such as "guaranteed" or words to that effect, and the guarantor signs it with his signature. The guarantee is deemed to have been given upon the signature of the guarantor on the back of the bill of exchange, unless the signatory is the drawer or the holder.
+
+The guarantor must designate the person he is guaranteeing, otherwise the holder is deemed to be the guaranteed party.
+
+The guarantor is bound by the same obligations as the guaranteed party.
+
+The guarantor's obligation is valid even if the obligation he guaranteed is invalid for any other reason, other than a defect in form. If the guarantor pays the bill of exchange, he acquires the rights accruing from the bill of exchange against the drawee and the parties bound to him by virtue of the bill of exchange. 

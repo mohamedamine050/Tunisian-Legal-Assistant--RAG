@@ -1,0 +1,9 @@
+Non-resident financial service providers are required to establish a guarantee mechanism aimed at compensating their clients in the event of the said service providers' inability to fulfill their obligations. This mechanism shall take the form of:
+
+- A deposit guarantee fund for clients of non-resident credit institutions with banking status, managed by a financial institution designated by the Central Bank of Tunisia.
+
+- An investor guarantee fund for investors in financial instruments with non-resident investment service providers, managed by the Tunisian Stock Exchange.
+
+The resources of each fund shall be derived from contributions by the non-resident financial service providers and from the proceeds of investments of these resources.
+
+The conditions for managing the guarantee mechanism, contribution rates, and intervention methods shall be set by decree. 

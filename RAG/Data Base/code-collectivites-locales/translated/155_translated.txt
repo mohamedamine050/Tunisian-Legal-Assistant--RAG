@@ -1,0 +1,45 @@
+The resources of the first heading of the local community's budget are allocated to the following categories: 
+
+* **Category 1:** Tax Revenues  
+- These are funds collected by the State in the form of taxes. A tax is a cash amount paid by individuals and companies proportionally to their income or profits. 
+- This category includes taxes on real estate and activities.
+
+* **Category 2:** Other Tax Revenues 
+- These are funds collected by the State in the form of taxes. A tax is a cash amount paid by individuals and companies proportionally to their income or profits. 
+- This category includes all other tax revenues.
+
+* **Category 3:** Fees, rights, various license fees, administrative charges, and royalties for providing services.
+
+* **Category 4:** Revenues from the use and occupation of the community's properties and spaces, including the use of its facilities and different properties.
+
+* **Category 5:** Revenues from the local community's property, its contributions, and miscellaneous income.
+
+* **Category 6:** State transfers for management purposes.
+
+The first part, related to **tax revenues**, includes Category 1 and Category 2.
+
+The second part, related to **non-tax revenues**, includes Category 3, Category 4, Category 5, and Category 6.
+
+The resources of the second heading of the local community's budget are allocated to the following categories:
+
+* **Category 7:** Equipment grants.
+
+* **Category 8:** Savings and miscellaneous resources.
+
+* **Category 9:** Domestic borrowing resources.
+
+* **Category 10:** Foreign borrowing resources.
+
+* **Category 11:** Allocated foreign borrowing resources.
+
+* **Category 12:** Resources originating from transferred credits.
+
+* **Category 13:** Resources from participation funds accounts.
+
+The third part, related to the local communities' own resources allocated for development, includes Category 7 and Category 8.
+
+The fourth part, related to borrowing resources, includes Category 9, Category 10, and Category 11.
+
+The fifth part, related to resources originating from transferred credits, includes Category 12.
+
+The sixth part, related to resources allocated through participation funds accounts, includes Category 13. 

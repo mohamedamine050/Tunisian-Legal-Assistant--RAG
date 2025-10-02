@@ -1,0 +1,11 @@
+## Payment Orders May Be Made Payable to:
+
+(1) A named person, with an express condition indicated by the word "to order" or without it.
+
+(2) A named person, with a condition indicated by the words "not to order" or any other wording conveying this meaning.
+
+(3) The bearer.
+
+A check drawn in favor of a named person and specifying "or bearer" or wording to that effect, is considered a check payable to the bearer.
+
+A check not mentioning the name of the beneficiary is considered a check payable to the bearer. 

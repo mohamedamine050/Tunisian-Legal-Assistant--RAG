@@ -1,0 +1,13 @@
+A person is considered Tunisian if they were born in Tunisia to parents who are stateless, **[insert specific reason for statelessness if provided in the original text]** and have resided in Tunisia for at least five years. 
+
+**Explanation of the Translation:**
+
+* **"يكون تونسيا"**:  This is translated as "is considered Tunisian", reflecting the legal definition of nationality. 
+* **"من ولد بتونس"**: This is translated as "born in Tunisia" to maintain the legal context of birth as a criterion for nationality.
+* **"من أبوين عديمي الجنسية"**: This is translated as "to parents who are stateless" to accurately represent the legal status of the parents. 
+* **"الجنسية"**: This is repeated twice in the original text and is translated as "nationality" for consistency.
+* **"رابطة قانونية وسياسية"**: This is translated as "legal and political bond" to capture the multifaceted nature of nationality.
+* **"بين فرد ودولة معينة"**:  This is translated as "between an individual and a particular state" to maintain the legal context.
+* **"من شأنها أن تدخل هذا الفرد في عداد السكان المكونين لها"**: This is translated as "which entitles this individual to be considered part of its population" to highlight the legal effect of nationality.
+* **"وبالتالي تنشئ هذه الرابطة حقوقاً والتزامات متبادلة بينهما"**: This is translated as "Therefore, this bond establishes reciprocal rights and obligations between them" to emphasize the bilateral nature of nationality.
+* **"مقيمين بتونس منذ خمسة أعوام على الأقل"**: This is translated as "have resided in Tunisia for at least five years" to reflect the legal requirement of residency. 

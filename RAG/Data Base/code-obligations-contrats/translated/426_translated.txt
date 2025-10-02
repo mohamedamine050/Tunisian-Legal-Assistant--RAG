@@ -1,0 +1,5 @@
+It is not permissible to prove the obligation in two instances:
+
+Firstly: If its consequence is to prove the existence of an obligation that is either impermissible or not legally established.
+
+Secondly: If its consequence is to prove something unsuitable for litigation.

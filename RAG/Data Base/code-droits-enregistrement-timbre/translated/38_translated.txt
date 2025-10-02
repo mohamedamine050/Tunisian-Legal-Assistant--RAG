@@ -1,0 +1,14 @@
+I - For calculating registration fees levied on gifts and inheritances, the value of full ownership and usufruct shall be determined as a fraction of the total value of the property, according to the following table:
+
+Beneficiary's Age          | Usufruct Value | Full Ownership Value
+---------------------------|-----------------|----------------------
+Under 20 years             | 7/10             | 3/10
+Under 30 years             | 6/10             | 4/10
+Under 40 years             | 5/10             | 5/10
+Under 50 years             | 4/10             | 6/10
+Under 60 years             | 3/10             | 7/10
+Under 70 years             | 2/10             | 8/10
+Over 70 years              | 2/10             | 8/10
+
+
+II - Contracts and authorizations subject to the provisions of this chapter must include the date and place of birth of the beneficiary. If the birth occurred outside Tunisia, proof of the date of birth shall be provided before registration. In the absence thereof, the maximum fees that may become due to the treasury shall be levied.  The excess levied may be reimbursed if the beneficiary's birth certificate is submitted within two years of the registration date, provided that the birth occurred outside Tunisia.

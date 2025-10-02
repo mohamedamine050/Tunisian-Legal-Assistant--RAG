@@ -1,0 +1,5 @@
+Every contract is a legally binding agreement that obligates the contracting parties and defines their obligations and rights concerning the specific transaction. 
+
+An insurance contract concluded after the insured objects have been damaged or after their arrival shall be void if the news of the damage or the news of the arrival reaches either the insured's location at the time of issuing the insurance order or the place of signing the contract before the insurer signs it. If the insurance contract is concluded upon good or bad news, the contract is not void unless it is proven that the insured was aware of the damage or that the insurer was aware of the arrival.
+
+If the insurance order has been issued but the contract has not been concluded, the insured who becomes aware of the damage to the insured objects or their arrival must immediately inform the insurer by the fastest means. If the insurance order has not been accepted upon receiving the aforementioned news, it shall be considered void. However, if it is accepted, its legal effects shall be implemented. 

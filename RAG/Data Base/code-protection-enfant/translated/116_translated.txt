@@ -1,0 +1,15 @@
+The mediation request shall be filed by the delinquent child or his representative with the Child Protection Delegate, who shall endeavor to reach a settlement between the concerned parties. He shall record it in a signed register and submit it to the competent judicial authority, which shall approve it and grant it executive force, unless it is contrary to public order or good morals. The Juvenile Court may review the settlement agreement, taking into account the best interests of the child.
+
+**Glossary:**
+
+* **Mandalib al-wasata (مطلب الوساطة):** Mediation request
+* **Mindib Himayat al-Tuful (مندوب حماية الطفولة):** Child Protection Delegate
+* **al-Atraf al-mu'anniya (الأطراف المعنية):** Concerned parties
+* **al-جهة al-qada'iya al-mukhtasa (الجهة القضائية المختصة):** Competent judicial authority
+* **ta'tim (تعتم):** Approve
+* **al-sabgha al-tanfizia (الصبغة التنفيذية):** Executive force
+* **al-nizam al-'amm (النظام العام):** Public order
+* **al-akhlaq al-hamida (الأخلاق الحميدة):** Good morals
+* **Qadi al-Atyal (قاضي الأطفال):** Juvenile Court
+* **Kitab al-sulh (كتب الصلح):** Settlement agreement
+* **Maslahat al-tifl al-fadla (مصلحة الطفل الفضلى):** Best interests of the child 

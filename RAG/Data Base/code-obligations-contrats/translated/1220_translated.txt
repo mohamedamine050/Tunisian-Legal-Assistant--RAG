@@ -1,0 +1,11 @@
+The Qirad contract terminates in the following ways:
+
+First: By rescission of the contract by one of the contracting parties.
+
+Second: By judicial rescission.
+
+Third: By the death of the worker or by his loss of legal capacity.
+
+Fourth: By the expiration of its term, if it is for a term, or by the completion of the work for which the Qirad contract was concluded.
+
+Fifth: By the loss of the capital before commencing work or during its course.

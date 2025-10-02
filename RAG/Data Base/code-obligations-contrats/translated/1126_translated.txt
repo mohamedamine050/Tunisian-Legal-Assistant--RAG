@@ -1,0 +1,1 @@
+If multiple powers of attorney exist for a single transaction, each of the agents may execute the transaction in the absence of the others.

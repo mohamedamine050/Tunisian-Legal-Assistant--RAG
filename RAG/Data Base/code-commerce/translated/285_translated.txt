@@ -1,0 +1,5 @@
+The acceptance mark shall be written on the bill of exchange, expressed by the word "accepted" or any equivalent term, signed by the drawee.  The mere signature of the drawee on the face of the bill of exchange shall be considered an acceptance. If the bill of exchange is payable at a certain time after sight, or if it is to be presented for acceptance within a specified time pursuant to a special clause, the acceptance must be dated with the day on which it was made, unless the holder requests that it be dated with the day of presentation. If the acceptance lacks a date, the holder, in order to preserve his rights of recourse against the endorsers and the drawer, must prove this omission by a protest filed within the legal time limit.
+
+The acceptance must be unqualified and absolute, but the drawee may restrict it to a part of the amount of the bill of exchange.
+
+Any other change made by the acceptance in the details stated in the text of the bill of exchange shall be considered a refusal to accept, provided that the acceptor shall remain bound by the terms of the wording by which he expressed his acceptance. 

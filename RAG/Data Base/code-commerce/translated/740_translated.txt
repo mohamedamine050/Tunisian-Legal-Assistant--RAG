@@ -1,0 +1,3 @@
+If a current account is credited with amounts resulting from the discount of commercial bills, and if the value of the bills is not paid upon presentation, the holder, even after the bankruptcy of the issuer, may register the bills against the corresponding account by including in the balance due from the issuer an amount equal to the face value of the bills plus the expenses determined by Article 311 of this Code.
+
+In the case of the bankruptcy of the payer, the bills may not be registered against the corresponding account unless their value is not paid upon maturity. Any agreement to the contrary is void. 

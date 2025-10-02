@@ -1,0 +1,19 @@
+The **contract** of **lease**, regardless of its type, shall expire:
+
+(1) Upon the arrival of the agreed-upon term or the end thereof.
+
+(2) By mutual consent of the parties.
+
+(3) By notice of termination given by one party to the other in accordance with the provisions of this Code.
+
+(4) By application of the provisions of Chapter 34.
+
+(5) Upon the sailor's arrival on land due to illness or injury.
+
+(6) By a court order of dissolution or by a ruling permitting it.
+
+(7) By the sailor's call to military service.
+
+(8) By the sailor's death.
+
+(9) By the damage or unseaworthiness of the ship as officially certified, or by its seizure. 

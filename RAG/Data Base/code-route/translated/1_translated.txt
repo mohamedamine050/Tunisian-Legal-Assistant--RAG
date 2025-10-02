@@ -1,0 +1,43 @@
+**Definitions of Road Elements**
+
+**"Urban Area":**  An area with closely-spaced buildings where entry and exit are clearly marked by vertical signs placed on or adjacent to the road.
+
+**"Road":** Any path or thoroughfare, along with all its appurtenances, open to the public for travel.
+
+**"Roadway":** The portion of the road typically used for vehicle travel. A road may have multiple roadways, clearly separated from each other, particularly by a central median or level differences.
+
+**"Lane":** Each side of a roadway, whether marked by a road sign or not, with sufficient width to allow vehicles to travel in succession. A roadway may consist of one or more lanes.
+
+**"Median":** The part of a road not intended for travel that borders the designated travel area in a specific direction.
+
+**"Pedestrian Crossing":** A designated portion of the roadway marked with a distinctive sign and intended for pedestrian use.
+
+**"Shoulder":** The part of the road located on either side of the roadway typically used for pedestrian traffic, animal-drawn vehicles, and slow-moving vehicles when necessary.
+
+**"Sidewalk":** A raised section of road adjacent to the roadway designed for pedestrian use.
+
+**"Refuge":** A raised section of road intended for pedestrians crossing the road, or to facilitate the boarding and disembarking of passengers from public transport vehicles or metro trains.
+
+**"Motorway":** A road designed for vehicle travel that meets the following criteria:
+
+1.  Does not directly connect to adjacent properties.
+2.  Consists of two separate roadways for each direction of travel, separated by a median except at specific points or temporarily.
+3.  Does not intersect with other roads or rail lines, nor does it have pedestrian crossings.
+4.  Connects to other roads only via interchanges.
+5.  Is clearly marked with signage indicating it is a motorway.
+
+**"Motorway Interchange":** A road connecting the motorway to the rest of the road network. Interchanges are classified as either entry or exit interchanges.
+
+**"Emergency Stopping Lane" on a Motorway:** A portion of the shoulder specifically designated for vehicles to stop in case of urgent need. It is not intended for travel.
+
+**"Bicycle Path":** A portion of the road separated from the roadway by a median, clearly marked with signs, and designed for bicycle and small motorcycle travel.
+
+**"Bicycle Lane":** A lane within a multi-lane roadway designated for bicycle and small motorcycle travel only.
+
+**"Curve":**  Any non-straight section of road where visibility is limited.
+
+**"Lane Designated for Public Transport Vehicles":** A lane dedicated solely to the travel of passenger public transport vehicles.
+
+**"Road Intersection":** Any point where roads meet, connect, or branch off at the same level.
+
+**"Road Intersection with a Railway Line":** Any point where a road crosses a railway line with a separate track bed. 

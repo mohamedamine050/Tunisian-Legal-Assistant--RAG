@@ -1,0 +1,13 @@
+Every entity proposing insurance pursuant to a framework agreement signed with an insurer, the benefit of which is intended for its own benefit, shall deliver to the insured a memorandum comprising the main terms of the insurance contract, including in particular the name and address of the insurer, the duration of the insurance contract, the risks covered by the insurance and those excluded from coverage.
+
+**Explanation of Translation Choices:**
+
+* **"مقتضى اتفاقية إطارية"**:  Translated as "pursuant to a framework agreement" to accurately capture the legal context.
+* **"منفعته راجعة لصالحها"**:  Translated as "the benefit of which is intended for its own benefit" to clarify the entity's purpose. 
+* **"المؤمن له"**:  Translated consistently as "insured" throughout the text.
+* **"مذكرة"**:  Translated as "memorandum" to convey the official nature of the document.
+* **"الشروط العامة للتأمين"**:  Translated as "main terms of the insurance contract" for legal clarity.
+* **"مدة التأمين"**:  Translated as "duration of the insurance contract" to maintain accuracy.
+* **"عقد به يلتزم المؤمن"**:  Translated as "contract whereby the insurer agrees" to accurately reflect the legal obligation.
+* **"الأخطار التي تشملها التغطية"**:  Translated as "the risks covered by the insurance" for clarity.
+* **"الأخطار التي لا تشملها"**: Translated as "those excluded from coverage" for consistency and conciseness. 

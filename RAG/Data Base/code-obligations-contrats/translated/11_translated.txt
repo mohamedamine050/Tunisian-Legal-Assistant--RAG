@@ -1,0 +1,59 @@
+## English Translation of the Arabic Legal Text:
+
+**I.** The **taxable profit**, which is determined by adding the company’s capital to its liabilities at the end of the fiscal year, shall be calculated as the net profit taking into account the results of all operations, regardless of their nature, carried out by the entity, including in particular the disposal of any asset.  The value reduction resulting from the disposal of shares or units of collective investment institutions in securities as stipulated in the Collective Investment Institutions Code issued by Law No. 83 of 2001 dated 24 July 2001, as amended and supplemented by subsequent texts, shall not be deductible up to the limit of the reduction in liquidation value resulting from the distribution of profits or income. (Amended by Article 53 of Law No. 70 of 2007 dated 27 December 2007).
+
+(Sub-paragraph repealed by Article 49 of Law No. 88 of 1997 dated 29 December 1997).
+
+However, the following shall be deducted from the **taxable profit**: 
+
+- The value-added tax arising from the disposal of shares listed on the Tunis Stock Exchange that were acquired or subscribed to before 1 January 2011, and shares acquired within the framework of a listing on the Tunis Stock Exchange.
+
+- The value-added tax arising from the disposal of shares listed on the Tunis Stock Exchange that are acquired or subscribed to from 1 January 2011 onwards, if the disposal takes place after the end of the year following the year of acquisition or subscription. (Added by Article 29 of Law No. 101 of 1999 dated 31 December 1999, amended by Article 30-1 of Law No. 85 of 2006 dated 25 December 2006, and repealed and replaced by Article 41-1 of Law No. 58 of 2010 dated 17 December 2010).
+
+(Sub-paragraph added by Article 65 of Law No. 80 of 2003 dated December 2003 and repealed by Article 30-2 of Law No. 85 of 2006 dated 25 December 2006).
+
+Furthermore, the following shall not be taken into account when determining the **taxable profit**:
+
+- The value-added tax arising from the disposal of bonds and related rights, or the transfer of the following:
+
+    - Shares of start-up assistance funds as stipulated in Law No. 58 of 2005 dated 18 July 2005, and shares of joint funds for investment in development capital as stipulated in Article 22, Third, of the Collective Investment Institutions Code issued by Law No. 83 of 2001 dated 24 July 2001, whose assets are used to subscribe to shares of the aforementioned start-up assistance funds in accordance with the legislation governing them.
+
+    - Shares of joint funds for investment in development capital subscribed to under paragraph II of Article 77 of this Code, if the disposal or transfer takes place after the end of the fifth year following the year of issue of the shares, up to a limit of 50% of the realized capital gain. (Amended by Article 15 of Law No. 8 of 2017 dated 14 February 2017).
+
+    - Shares of joint funds for investment in development capital subscribed to under paragraph IV of Article 77 of this Code. (Amended by Article 15 of Law No. 8 of 2017 dated 14 February 2017).
+
+    (Paragraph added by Article 1 of Law No. 59 of 2005 dated 18 July 2005 concerning tax provisions aimed at encouraging the creation of start-up assistance funds, amended by Article 25-3 of Law No. 106 of 2005 dated 19 December 2005, repealed and replaced by Article 5 of Decree No. 100 of 2011 dated 21 October 2011, and amended by Article 15 of Law No. 8 of 2017 dated 14 February 2017).
+
+- The value-added tax arising from contributions in the form of shares and social bonds to the capital of the parent company or holding company, provided that the parent company or holding company undertakes to list its shares on the Tunis Stock Exchange no later than the end of the year following the year of the issue. This deadline may be extended by one year by decision of the Minister of Finance on the basis of a **reasoned report** from the Capital Market Authority.
+
+- The enjoyment of the deduction requires the attachment of a certificate issued by the Capital Market Authority to the annual tax return for the year of the issue, confirming the aforementioned commitment.
+
+- Entities benefiting from the deduction shall be required to pay the value-added tax that was not paid in respect of the deductible capital gain, plus any applicable late payment penalties in accordance with current legislation, unless they deposit a **certificate** at the competent performance control center or office certifying that the parent company or holding company whose shares were contributed has been listed on the Tunis Stock Exchange no later than the end of the third month following the expiry of the deadline mentioned above.
+
+- No late payment penalties shall apply if a certificate issued by the Capital Market Authority is provided certifying that the failure to list the parent company or holding company on the Tunis Stock Exchange is due to circumstances beyond its control. (Added by Article 31 of Law No. 85 of 2006 dated 25 December 2006).
+
+**I bis** - Exceptional income and profits related to the primary activity of entities shall be deducted according to the same limits and conditions established by current legislation for income and profits derived from operations. This includes:
+
+- Investment grants awarded under the legislation concerning investment promotion, qualification grants awarded under an approved qualification program, grants awarded within the framework of promoting export operations, and grants awarded to entities within the framework of the National Employment Fund’s interventions. (Amended by Article 28-2 of Law No. 58 of 2010 dated 17 December 2010).
+
+- Capital gains arising from the disposal of fixed assets allocated to the primary activity of entities, excluding built-up real estate, unbuilt real estate, and business assets.
+
+- Exchange profits related to sales and purchases by entities in the course of their primary activity.
+
+- The benefit from debt cancellation.
+
+(The last sub-paragraph was repealed by Article 37-6 of Law No. 56 of 2018 dated 27 December 2018).
+
+**II.** The **taxable profit** shall consist of the difference between the value of net assets at the end and beginning of the period for which the results are to be taxed, after deducting any added contributions and increasing the amount withdrawn by the operator or partners during the same period.
+
+Net assets are defined as the difference between the value of assets and the total liabilities to third parties, depreciation, and deductible savings found in liabilities.
+
+**III.** For the application of paragraphs I and II of this article, inventories and work in progress shall be valued at cost.
+
+**IV.** Equipment grants awarded to entities shall not be included in the results of the year in which they are received. These grants shall be added to the net results of the fiscal years to the extent of the depreciation amounts calculated on the basis of the cost price of the depreciable fixed assets at the end of these fiscal years, when they are used to create or acquire these fixed assets.
+
+One-tenth of grants used to create or acquire non-depreciable fixed assets shall be added to the profits of each year over a period of ten years, beginning with the year in which these fixed assets were created or acquired.
+
+In the event of the disposal of the fixed assets referred to in this article, the remaining grants that have not yet been added to the tax base shall be deducted from the accounting value of these fixed assets to determine the taxable capital gain or the deductible capital loss.
+
+**V.** Operating grants and balancing grants received shall be included in the net results achieved in the year in which they are received. Grants awarded to entities and intended to finance intangible investments shall be included in the net results of each year over a period of ten years, beginning with the year in which they are received. (Amended by Article 36 of Law No. 70 of 2007 dated 27 December 2007). 

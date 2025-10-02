@@ -1,0 +1,1 @@
+The object of sale may be specified only by its genus. However, this sale is only valid if the specification applies to fungibles, and the object of sale is sufficiently defined by number, measurement, weight, volume, or quality, so that the consent of the contracting parties is based on knowledge.

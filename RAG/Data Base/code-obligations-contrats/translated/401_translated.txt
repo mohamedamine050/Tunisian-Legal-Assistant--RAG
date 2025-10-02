@@ -1,0 +1,1 @@
+The calculation of the time period shall be in full days, not in hours, and the day on which the count begins shall not be included, and it shall be completed upon the expiry of the last day thereof.

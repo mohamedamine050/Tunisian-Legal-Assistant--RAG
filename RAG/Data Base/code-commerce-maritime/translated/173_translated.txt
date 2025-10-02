@@ -1,0 +1,14 @@
+The charter party shall stipulate the following: 
+
+1. The name, nationality, and net tonnage of the vessel, specifying whether it is chartered in its entirety or otherwise. 
+2. The full names and addresses of the parties.
+3. The method of calculating the freight rate.
+
+Furthermore, the charter party shall, if applicable, stipulate:
+
+4. The name of the master.
+5. The type of cargo, specifying whether it is specific or providing sufficient details to identify it.
+6. The agreed upon place and time for loading and unloading.
+7. The duration of the contract; if it is for an indefinite period, the method of termination shall be specified.
+8. A statement of the voyage or voyages to be undertaken.
+9. A statement of the technical, administrative, navigational, and commercial responsibilities assigned to each party. 

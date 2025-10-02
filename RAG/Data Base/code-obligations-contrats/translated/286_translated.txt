@@ -1,0 +1,5 @@
+The creditor shall not be considered in default if he refuses to accept payment temporarily in either of the following two cases:
+
+Firstly: If the debt is without a specified due date.
+
+Secondly: If the debtor has the right to perform the debt before the specified due date. However, the creditor shall be considered in default if he refuses to accept payment, even if his refusal is temporary, if the debtor has notified him of his intention to fulfill his obligation and has given him a reasonable time to do so.

@@ -1,0 +1,7 @@
+If the check lacks any of the elements specified in the preceding section, it shall not be considered valid except in the cases stipulated in the following paragraphs:
+
+- If the check lacks a statement of the place of payment, the place indicated beside the name of the payee shall be considered the place of payment. If several places are mentioned beside the name of the payee, the check shall be payable at the place first mentioned.
+
+- If these details or any others are not mentioned, the check shall be payable at the place of the payee's principal place of business.
+
+A check that does not mention the place of its issuance shall be deemed to have been issued in the place indicated beside the name of the drawer. 

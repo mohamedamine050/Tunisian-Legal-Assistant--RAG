@@ -1,0 +1,7 @@
+In addition to what was stated in the previous chapter, the following subsidiary registers are maintained in duplicate:
+
+1. A deposit register which records, in order of arrival, all documents, papers, and evidence submitted for registration or provisional registration.
+2. An alphabetical index of the names of the rights holders registered or provisionally registered for the registered vessels.
+3. An alphabetical index of the names of the registered vessels.
+
+The duplicates of the three subsidiary registers mentioned above are deposited with the **Court of First Instance** located in the district of the relevant maritime area within thirty days following the date of their stamping. 

@@ -1,0 +1,31 @@
+## English Translation of Arabic Legal Text:
+
+**1.** An arbitral award may only be challenged by way of annulment. This is carried out according to the second and third paragraphs of this chapter.
+
+**2.** The Court of Appeal of Tunisia shall not annul an arbitral award except in the following two cases:
+
+**First:** If the applicant for annulment provides evidence proving one of the following:
+
+**a.** That one of the parties to the arbitration agreement referred to in Article 52 of this Code does not meet one of the conditions of capacity, or that this agreement is invalid under the law to which the parties have subjected it, or under the rules of private international law if they have not specified the applicable law.
+
+**b.** That the applicant for annulment was not properly notified of the appointment of an arbitrator or of the arbitration proceedings or that he was unable to defend his rights for another reason.
+
+**c.** That the arbitral award concerns a dispute that is not intended by the arbitration agreement or is not covered by the arbitration clause, or that it includes a ruling on matters outside the scope of the arbitration agreement or the arbitration clause.
+
+**However:** If it is possible to separate the part of the award relating to the matters submitted to arbitration from the part relating to matters not submitted to arbitration, only the part that rules on matters not submitted to arbitration may be annulled. 
+
+**d.** That the composition of the arbitral tribunal or the procedures followed in the arbitration proceedings were contrary to the provisions of the arbitration agreement or to the system of arbitration chosen or to the law of a state that was adopted or to the rules of this Chapter concerning the composition of the arbitral tribunal.
+
+**Second:** If the court finds that the arbitral award violates public policy in the sense of private international law. 
+
+**3.** The application for annulment may not be filed after three months from the date of service of the arbitral award on the applicant or from the date of the decision on the application by the arbitral tribunal if it was filed with the tribunal in accordance with Article 77 of this Code. 
+
+**4.** The court seized with the application for annulment may, if necessary and at the request of one of the parties, suspend the annulment proceedings for a period it determines, in order to enable the arbitral tribunal to resume the arbitration proceedings or to take any action it deems likely to remove the grounds for annulment. 
+
+**5.** If the court seized with the application for annulment decides to annul the award, in whole or in part, it may, if necessary and at the request of all the parties, rule on the subject matter of the dispute. It shall have the same powers as the arbitral tribunal referred to in Article 14 of this Code if this power is vested in the arbitral tribunal. 
+
+If the court decides to reject the challenge, the judgment of rejection shall constitute an order for the enforcement of the challenged arbitral award.
+
+**6.** Parties who do not have a principal place of residence or a place of business in Tunisia may expressly agree to exclude the challenge, in whole or in part, with regard to the arbitral award. 
+
+If they request recognition and enforcement of the arbitral award in Tunisia, the provisions of Articles 80, 81 and 82 of this Code shall apply. 

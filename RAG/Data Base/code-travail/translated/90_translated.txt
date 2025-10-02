@@ -1,0 +1,9 @@
+Overtime hours are considered to be the hours worked in excess of the regular weekly working hours.
+
+The remuneration for these hours is calculated based on the basic hourly wage, increased according to the following rates:
+
+- For a full-time work system of 48 hours per week: 75%
+
+- For full-time work systems of less than 48 hours per week: 25% up to 48 hours and 50% thereafter,
+
+- For part-time work systems: 50%

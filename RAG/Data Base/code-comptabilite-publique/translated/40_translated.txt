@@ -1,0 +1,6 @@
+Expenses shall be paid after they are incurred, settled, and an order for their disbursement is issued. However, the following expenses shall be paid to their owners without a prior order for disbursement:
+
+- Expenses that are usually paid by payment agents.
+- Old age pensions and benefits issued by the National Fund for Retirement and Social Security or by the Ministry of Defense, as well as pensions granted by the Special Fund for Occupational Accidents.
+- Installments of general loans that have matured and the interest accruing thereon.
+- All expenses that are reported as payable in this manner pursuant to an order.  These expenses shall be settled after payment by issuing disbursement orders for them. 

@@ -1,0 +1,15 @@
+## English Translation:
+
+Local communities are established and their boundaries are regulated by law. The National Assembly approves by law the integration of local communities, which is approved by their elected councils with a two-thirds majority of their members. The process of integration results in the transfer of all obligations and rights to the community whose existence is established by law. The National Assembly approves by law the modification of the boundaries of local communities, which is approved by their elected councils with a two-thirds majority of their members. Disputes relating to the boundaries of local communities are brought before the Administrative Court, a court that adjudicates matters concerning public administration, in the territorial jurisdiction of the local community that filed the action, according to the procedures and deadlines established by the law governing administrative courts.
+
+**Notes:**
+
+* **"محكمة التعقيب"** is translated as "Court of Cassation" as requested.
+* **"محكمة الاستئناف"** is translated as "Court of Appeal" as requested.
+* **"مجلس نواب الشعب"** is translated as "National Assembly," which is a commonly used term in English for national legislative bodies.
+* **"جماعة محلية"** is translated as "local community" to maintain consistency with the legal context.
+* **"التزامات"** and **"حقوق"** are translated as "obligations" and "rights" respectively.
+* **"الدعوى"** is translated as "action" as this is the most accurate legal term in this context.
+* **"الإدارة العامة"** is translated as "public administration" as it is the closest equivalent in English legal terminology.
+* The French text within square brackets [1] and [2] has been excluded as it is not relevant to the legal translation of the Arabic text. 
+* The sentence structure and legal phrasing are kept as close to the original as possible while maintaining readability in English. 

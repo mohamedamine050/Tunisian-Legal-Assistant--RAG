@@ -1,0 +1,1 @@
+If the contract does not specify a period for the option, this shall be deemed to be the period considered legally or customarily, unless it exceeds the time limits specified in the following article.

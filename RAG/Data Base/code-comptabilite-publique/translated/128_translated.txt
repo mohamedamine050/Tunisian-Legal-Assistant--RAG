@@ -1,0 +1,1 @@
+An order for payment of the remaining value of a transaction upon its final liquidation may not be issued unless it is confirmed that registration fees have been paid on the difference(3) between the final amount and its estimated value at the time of its execution. 

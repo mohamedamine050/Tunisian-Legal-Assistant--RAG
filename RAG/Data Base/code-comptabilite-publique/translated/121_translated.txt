@@ -1,0 +1,3 @@
+Disbursement orders are dated and numbered annually by each ministry, sequentially for each budget chapter.
+
+Disbursement orders specify the name, title, and nickname of the beneficiary, if applicable. Collective disbursement orders may be issued for certain expenses.  Collective orders do not have a specific number, but are referenced by the first and last numbers of the transfer notices or payment cards related to them. 

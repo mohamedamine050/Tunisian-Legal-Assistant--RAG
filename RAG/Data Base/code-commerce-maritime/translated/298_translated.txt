@@ -1,0 +1,11 @@
+This book shall govern all contracts.
+
+A contract is a legally binding agreement that creates obligations for the parties and defines their rights and responsibilities in relation to the specific transaction.
+
+Insurance contracts are subject to this book, provided they are contracts whose subject matter is the guarantee of risks related to a maritime voyage. 
+
+An insurance contract is a legally binding agreement that creates obligations for the parties and defines their rights and responsibilities in relation to the specific transaction.
+
+In an insurance contract, the insurer undertakes to pay the insured or the beneficiary a sum of money, a periodic income, or any other financial compensation in the event of the occurrence of the insured risk, in exchange for premiums or any other financial payment made by the insured to the insurer. 
+
+It is prohibited to include in an insurance contract any compensation clause, despite any agreement to the contrary, nor is it permissible to make the insured, in the event of a catastrophe, in a better financial position than he would be in if no risk had occurred.  

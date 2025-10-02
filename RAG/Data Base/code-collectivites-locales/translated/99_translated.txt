@@ -1,0 +1,5 @@
+The delegating local community may terminate the delegation contract before its term expires in the following cases:
+
+- Whenever the public interest and the requirements of the efficient operation of the public service require its exploitation by the delegating local community, provided that it notifies the delegatee in advance of its intention to terminate the delegation within a period of not less than six months. The delegatee retains the right to full compensation for any damages suffered as a result of the termination of the delegation contract before its expiry in a fair and timely manner.
+
+- If the delegatee commits a serious breach of one of its essential contractual obligations, after being notified in writing and given a reasonable time to remedy the breach without complying. 

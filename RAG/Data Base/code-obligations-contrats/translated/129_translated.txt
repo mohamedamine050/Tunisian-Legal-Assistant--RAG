@@ -1,0 +1,11 @@
+If the obligation is subject to a suspensive condition, and the object of the contract is destroyed or defective before the occurrence of the condition, the following rules apply:
+
+First: If the entire object of the contract is destroyed without the fault or negligence of the debtor, the occurrence of the condition does not result in anything, and the obligation becomes null and void as if it never existed.
+
+Second: If the object of the contract is defective or its value is diminished without the fault or negligence of the debtor, the creditor must accept it in its current state without a reduction in the price.
+
+Third: If the object is completely destroyed by the act or negligence of the debtor, the creditor may claim compensation for the loss.
+
+Fourth: If the object of the contract is defective or its value is diminished by the act or negligence of the debtor, the creditor has the option of either accepting the object in its current state or rescinding the contract, while retaining the right to claim compensation in both cases.
+
+All of this is subject to any contrary stipulation in the contract.

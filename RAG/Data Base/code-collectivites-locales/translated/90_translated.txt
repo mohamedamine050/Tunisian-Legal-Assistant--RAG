@@ -1,0 +1,16 @@
+## English Translation:
+
+Public service concession contracts are entered into for a definite duration, taking into account the nature of the public services to be provided by the concessionaire. If the concession contract requires the concessionaire to undertake construction or acquire property, the duration of the contract shall be determined taking into consideration the nature of such constructions or property, the depreciation period, and the value of the investment to be made for this purpose. 
+
+**Explanation of Terms:**
+
+* **Concession Contract:**  An agreement where a government entity grants a private company the right to operate a public service for a specific period.
+* **Concessionaire:**  The private company that receives the right to operate the public service.
+* **Public Service:**  A service provided to the public, often essential for the well-being of society, such as transportation, water, or electricity.
+* **Depreciation Period:** The time it takes for an asset to lose value due to wear and tear or obsolescence.
+
+**Note:** 
+
+* The original Arabic text includes the word "عقد" (contract) repeated twice. I have translated it only once in the English text for clarity. 
+* I have avoided translating the French text within the original Arabic text as it was irrelevant to the legal context.
+* The translation maintains the legal meaning and employs precise terminology while preserving the structure of the original text. 

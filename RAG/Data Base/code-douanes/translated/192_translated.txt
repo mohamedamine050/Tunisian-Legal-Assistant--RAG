@@ -1,0 +1,11 @@
+1. The Customs-supervised transformation system allows the importation of goods into the customs territory for the purpose of carrying out transformation operations leading to a change in their type or condition, without being subject to the duties and taxes payable upon importation.
+
+2. The products resulting from the transformation operation are designated as "transformed products" or "replacement products".
+
+3. There are three categories of the Customs-supervised transformation system:
+
+- The Customs-supervised transformation system intended for total export, referred to in this Code as the "total export transformation system".
+
+- The Customs-supervised transformation system intended for partial export, referred to in this Code as the "partial export transformation system".
+
+- The Customs-supervised transformation system intended for the domestic market, referred to in this Code as the "domestic market transformation system".

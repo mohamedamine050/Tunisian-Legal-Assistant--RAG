@@ -1,0 +1,20 @@
+## English Translation:
+
+The penalties stipulated in Article 292 of the Penal Code, according to the circumstances defined therein, shall be imposed upon the owner of the mortgage, or the mortgagor, who intentionally mortgages bonds previously mortgaged, knowing that they belong to another, without the consent of their owner, or who intentionally obstructs the exercise of the rights of the foreign holder of the mortgage or the rights of the mortgagee.
+
+**Explanation of Legal Terms:**
+
+* **"الرهن" (Mortgage):** Refers to a legal arrangement where a debtor provides a property as collateral for a loan.  
+* **"صاحب الرهن" (Mortgagor):** The owner of the property being used as collateral.
+* **"الرهن الرسمي" (Formal Mortgage):** A legally recognized and registered mortgage that grants the creditor a preferential right to the mortgaged property.
+* **"الدائن" (Creditor):** The person who lends money or provides a loan. 
+* **"الدائنين العاديين" (Ordinary Creditors):** Creditors without any special rights or priority.
+* **"الدائنين التالين له في المرتبة" (Creditors Following in Rank):** Creditors with a lower priority than the mortgagee.
+* **"حقاً عينياً" (Real Right):**  A right directly associated with a specific property, giving the holder control over its use and disposition.
+* **"سندات" (Bonds):**  Securities representing debt obligations issued by a corporation or government.
+* **"الأجنبي الماسك للرهن" (Foreign Holder of the Mortgage):** An individual or entity who holds a mortgage on a property not located in their own country.
+* **"الدائن المرتهن" (Mortgagee):** The creditor who holds the right to the mortgaged property.
+* **"عمد إلى" (Intentionally):** Implies a deliberate and conscious action.
+* **"عارض عن سوء قصد" (Intentionally Obstructs):**  Actively hinders or prevents the exercise of someone's rights.
+
+**Note:** This translation preserves the legal context and terminology of the original Arabic text while ensuring readability for an English-speaking audience. The sentence structure is maintained as closely as possible to the original, allowing for clear understanding of the legal references. 

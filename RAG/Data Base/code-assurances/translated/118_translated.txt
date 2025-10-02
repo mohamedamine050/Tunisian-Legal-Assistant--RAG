@@ -1,0 +1,17 @@
+The contract of insurance may be worded as follows: 
+
+**Contract**
+
+The contract is a legally binding agreement that obligates the contracting parties and defines their obligations and rights concerning the specific transaction.
+
+**Insurance Contract**
+
+Through the insurance contract, the insurer undertakes to pay the insured or the beneficiary a sum of money, a regular income, or any other monetary compensation in the event of the occurrence of the insured event. This is in return for premiums or any other financial payment made by the insured to the insurer.
+
+**Exceptions to Coverage**
+
+Coverage will be excluded in the following situations:
+
+*  A. If the driver at the time of the accident did not have the legal age required to drive the insured vehicle.
+*  B. If the driver at the time of the accident did not possess the valid certificates required by the regulations in force for driving that vehicle. This condition does not apply if the driver was operating a motorized land vehicle intended for training during a session supervised by a person holding the required certificates. 
+*  C. If persons were transported in a motorized land vehicle without respecting the safety requirements stipulated by the regulations in force, with regard to the damages they sustain. 

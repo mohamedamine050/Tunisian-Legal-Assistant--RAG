@@ -1,0 +1,1 @@
+The ownership of a ship can be divided into multiple shares. 

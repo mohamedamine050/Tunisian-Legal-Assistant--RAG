@@ -1,0 +1,7 @@
+Employee
+
+Employee
+
+An employee is a worker who works for wages.  The employee guarantees what arises from his act, negligence, or default.
+
+Any condition contrary to this is void.

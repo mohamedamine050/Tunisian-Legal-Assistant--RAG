@@ -1,0 +1,21 @@
+The minimum solvency margin shall be set as follows:
+
+**A. For institutions practicing non-life insurance types:**
+
+The solvency margin shall be calculated using the following two methods, and the higher amount shall be used:
+
+- Twenty percent (20%) of the net premiums issued and accepted, after deducting taxes and cancellations, multiplied by the proportion of premiums retained from the net premiums issued and accepted, after deducting taxes and cancellations, provided that this proportion does not fall below fifty percent (50%).
+
+- Twenty-five percent (25%) of the annual average cost of claims for the past three years for direct insurance and accepted operations, multiplied by the proportion of the cost of claims borne by the insurance institution in the last year, net of reinsurance, over the total cost of claims for the same year, provided that this proportion does not fall below fifty percent (50%). The cost of claims for three years shall be calculated as the sum of payments made during this period, plus the provision for claims under settlement recorded at the end of the last year, minus the provision for claims under settlement recorded at the beginning of the first year of this period, plus recoveries. The period of the last seven years shall be used to calculate the annual average cost of claims instead of three years for institutions primarily engaged in credit insurance.
+
+**B. For institutions specialized in life insurance and wealth creation:**
+
+The minimum solvency margin shall be calculated according to the following two operations, and the resulting amounts shall be added together:
+
+- Four percent (4%) of the actuarial reserves, multiplied by the proportion of the actuarial reserves net of reinsurance over the total actuarial reserves, provided that this proportion does not fall below eighty-five percent (85%).
+
+- Three per thousand (‰3) of the capital at risk, multiplied by the proportion of the capital at risk net of reinsurance over the total capital at risk, provided that this proportion does not fall below fifty percent (50%). The capital at risk shall be calculated as the insured capital minus the actuarial reserves.
+
+**C. For institutions practicing both non-life insurance and life insurance and wealth creation:**
+
+The minimum solvency margin for these institutions shall be calculated by adding the two amounts obtained according to paragraphs A and B. 

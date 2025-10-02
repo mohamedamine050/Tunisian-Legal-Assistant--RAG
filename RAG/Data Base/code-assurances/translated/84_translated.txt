@@ -1,0 +1,14 @@
+## English Translation:
+
+The inspection of violations of the legislation governing the insurance sector shall be conducted by a report drawn up by at least two insurance inspectors, each of whom shall be a sworn officer and hold at least the rank of Inspector.
+
+These inspectors shall personally and directly examine the facts of the violation. Every report shall necessarily include the seal of the entity to which the officers who drew up the report belong.
+
+The violator or their representative present during the drawing up of the report shall be requested to sign it and be given a copy thereof. In the event of the violator's absence or their presence and refusal to sign, this shall be stated in the report.
+
+The reports shall be submitted to the General Insurance Authority, which, in turn, shall forward them to the Public Prosecutor when the facts examined in these reports necessitate criminal proceedings.
+
+**Definitions:**
+
+* **Insurance:** A contract whereby the insurer undertakes to pay the insured or the beneficiary a sum of money, a regular income, or any other financial compensation in the event of the occurrence of the insured event, in return for premiums or any other financial payment made by the insured to the insurer.
+* **Agent:** A person acting on behalf of another person. 

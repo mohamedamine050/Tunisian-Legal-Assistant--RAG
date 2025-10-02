@@ -1,0 +1,7 @@
+When a physician is called upon to treat a patient who is already under the care of another physician, he must adhere to the following rules:
+
+If the patient wishes to change the treatment they are receiving from their original physician, the new physician must treat them. 
+
+If the patient seeks only a second opinion without altering their treatment under the care of the original physician, the second physician must propose a joint consultation.  If the patient refuses this, the physician is limited to providing his opinion and offering any necessary emergency treatment.  He may also, in agreement with the patient, inform the original physician of his opinion.
+
+If the patient requests another physician due to the absence of their usual physician, the substitute physician is obligated to provide treatment during the original physician's absence and discontinue treatment upon the original physician's return. The substitute physician must also, in agreement with the patient, provide the original physician with all pertinent information. If the patient refuses this, the substitute physician must inform the patient of the potential consequences of this refusal. 

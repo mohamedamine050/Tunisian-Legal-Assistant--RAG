@@ -1,0 +1,10 @@
+## English Translation:
+
+1. If the parties agree to settle their dispute during the arbitration proceedings, the arbitral tribunal shall terminate the proceedings.
+
+If requested by the parties and the tribunal sees no reason to refuse, the tribunal shall rule on the settlement by an arbitral award.
+**Arbitration** is the process whereby the parties agree to refer their dispute to one or more arbitrators who shall issue a binding decision.
+
+2. An arbitral award issued by agreement of the parties pursuant to the provisions of Chapter 30 or Chapter 75 of this Code shall be deemed an original arbitral award and shall have the same effect as such.
+
+**Award** is a written decision by a court resolving a legal or factual issue. 

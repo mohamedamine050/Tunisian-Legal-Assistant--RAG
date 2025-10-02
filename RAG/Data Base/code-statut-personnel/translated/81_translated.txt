@@ -1,0 +1,1 @@
+A person is considered missing if their whereabouts are unknown and they cannot be found alive. 

@@ -1,0 +1,1 @@
+A condition is considered void if its fulfillment depends on the participation of a third party and that third party refrained from participating, or if it depends on an action by the obligee and that action did not occur, even due to an impediment beyond the obligee's control.

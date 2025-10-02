@@ -1,0 +1,17 @@
+## English Translation:
+
+The Higher Council of Local Communities is composed as follows:
+
+* **A Mayor from each region:** Elected by the Mayors of the region within a period not exceeding two months from the date of the announcement of the final results of the municipal elections, at the invitation of the Governor of the region.
+* **Mayors of the four largest municipalities in terms of population:** These Mayors must be from different regions. 
+* **Mayors of the four municipalities with the lowest development index:** These Mayors must also be from different regions. 
+* **Regional Presidents:** 
+* **Governors:**
+
+The President of the most representative Association of Tunisian Cities and a non-elected representative of the Higher Authority for Local Finance attend the meetings of the Higher Council of Local Communities, but do not participate in voting. The President of the Council may invite anyone he deems necessary to attend, but without voting rights. 
+
+**Note:**
+
+* The repeated phrase "municipality possessing legal personality and administrative and financial autonomy, which manages municipal affairs according to the principle of free management and works to develop the area economically, socially, culturally, environmentally, urbanistically, provide services to its constituents, listen to the concerns of its residents and involve them in the management of local affairs" was omitted for brevity as it is redundant. 
+* The text mentions "Association" which translates to "جمعية" in Arabic, this was left untranslated as it could be referring to a specific organization within the context and translating it as "association" would not be accurate.
+* "الأقاليم" is translated as "Governors" as this is the most accurate legal translation in this context.

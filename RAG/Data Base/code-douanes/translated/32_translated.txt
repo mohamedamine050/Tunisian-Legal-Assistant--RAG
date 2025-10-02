@@ -1,0 +1,7 @@
+1. Notwithstanding the provisions of Articles 23 to 29 of this Code, for the purpose of determining the customs value of imported data processing equipment media containing data or instructions, only the cost or value of the data medium itself shall be considered.  The customs value relating to imported data media containing data or instructions shall not include the cost or value of the data or instructions, provided that this cost or value is separate from the cost or value of the data medium in question.
+
+2. For the purposes of applying the provisions of this Chapter:
+
+a. The term "data medium" shall not include integrated circuits, semiconductors, and similar devices or goods containing such circuits or devices.
+
+b. The term "data or instructions" shall not include sound recordings, cinematographic recordings, and video recordings.
